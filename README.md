@@ -1,3 +1,7 @@
+
+<img width="1525" height="677" alt="Raw_in_excel" src="https://github.com/user-attachments/assets/3b45908b-4aab-4ca1-bb9a-00612aaead99" /> <img width="1119" height="608" alt="02_Finance Dashboard" src="https://github.com/user-attachments/assets/373f2732-c1a0-4533-abda-3ef568e68531" />
+
+
 # Finance Reporting & Analytics (Power BI)
 
 Portfolio project simulating a real FP&A reporting workflow: transform messy P&L spreadsheets into a clean model and build a leadership-ready dashboard (Actual vs Budget vs Prior Year, trends, variances, drill-through).
