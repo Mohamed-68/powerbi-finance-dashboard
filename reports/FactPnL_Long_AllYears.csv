@@ -1,0 +1,1681 @@
+Account,Line Item,Scenario,Year,Month,Amount,MonthNumber,MonthStartDate,MonthEndDate,Quarter
+4001,  Core,Actual,2020,Jan,1550375.61,1,1/1/2020,1/31/2020,Q1
+4002,  Pro,Actual,2020,Jan,1182176.25,1,1/1/2020,1/31/2020,Q1
+4010,  Services,Actual,2020,Jan,692904,1,1/1/2020,1/31/2020,Q1
+5001,  Materials,Actual,2020,Jan,-886051.82,1,1/1/2020,1/31/2020,Q1
+5002,  Direct Labor,Actual,2020,Jan,-401701,1,1/1/2020,1/31/2020,Q1
+5003,  Freight & Logistics,Actual,2020,Jan,,1,1/1/2020,1/31/2020,Q1
+6001,  Salaries & Wages,Actual,2020,Jan,-802479.86,1,1/1/2020,1/31/2020,Q1
+6002,  Payroll Taxes,Actual,2020,Jan,-112347.19,1,1/1/2020,1/31/2020,Q1
+6003,  Rent,Actual,2020,Jan,-53754.3,1,1/1/2020,1/31/2020,Q1
+6004,  Marketing,Actual,2020,Jan,-185433.33,1,1/1/2020,1/31/2020,Q1
+6005,  Software & Subscriptions,Actual,2020,Jan,-26537.78,1,1/1/2020,1/31/2020,Q1
+6006,  Travel,Actual,2020,Jan,-34527.13,1,1/1/2020,1/31/2020,Q1
+7001,  Interest Income,Actual,2020,Jan,2825.99,1,1/1/2020,1/31/2020,Q1
+7002,  Interest Expense,Actual,2020,Jan,-3544.53,1,1/1/2020,1/31/2020,Q1
+4001,  Core,Actual,2020,Feb,1611460.89,2,2/1/2020,2/29/2020,Q1
+4002,  Pro,Actual,2020,Feb,,2,2/1/2020,2/29/2020,Q1
+4010,  Services,Actual,2020,Feb,694300.4,2,2/1/2020,2/29/2020,Q1
+5001,  Materials,Actual,2020,Feb,-919338.65,2,2/1/2020,2/29/2020,Q1
+5002,  Direct Labor,Actual,2020,Feb,-421742.34,2,2/1/2020,2/29/2020,Q1
+5003,  Freight & Logistics,Actual,2020,Feb,-152543.78,2,2/1/2020,2/29/2020,Q1
+6001,  Salaries & Wages,Actual,2020,Feb,-829506.39,2,2/1/2020,2/29/2020,Q1
+6002,  Payroll Taxes,Actual,2020,Feb,-116130.88,2,2/1/2020,2/29/2020,Q1
+6003,  Rent,Actual,2020,Feb,-54083,2,2/1/2020,2/29/2020,Q1
+6004,  Marketing,Actual,2020,Feb,-199510.18,2,2/1/2020,2/29/2020,Q1
+6005,  Software & Subscriptions,Actual,2020,Feb,-26251.46,2,2/1/2020,2/29/2020,Q1
+6006,  Travel,Actual,2020,Feb,-35923.47,2,2/1/2020,2/29/2020,Q1
+7001,  Interest Income,Actual,2020,Feb,2514.31,2,2/1/2020,2/29/2020,Q1
+7002,  Interest Expense,Actual,2020,Feb,-4027.83,2,2/1/2020,2/29/2020,Q1
+4001,  Core,Actual,2020,Mar,1767868.13,3,3/1/2020,3/31/2020,Q1
+4002,  Pro,Actual,2020,Mar,1319564.39,3,3/1/2020,3/31/2020,Q1
+4010,  Services,Actual,2020,Mar,818181.58,3,3/1/2020,3/31/2020,Q1
+5001,  Materials,Actual,2020,Mar,-999020.26,3,3/1/2020,3/31/2020,Q1
+5002,  Direct Labor,Actual,2020,Mar,-459087,3,3/1/2020,3/31/2020,Q1
+5003,  Freight & Logistics,Actual,2020,Mar,-161215.31,3,3/1/2020,3/31/2020,Q1
+6001,  Salaries & Wages,Actual,2020,Mar,-826317.57,3,3/1/2020,3/31/2020,Q1
+6002,  Payroll Taxes,Actual,2020,Mar,-115684.46,3,3/1/2020,3/31/2020,Q1
+6003,  Rent,Actual,2020,Mar,-53749.6,3,3/1/2020,3/31/2020,Q1
+6004,  Marketing,Actual,2020,Mar,-205747.47,3,3/1/2020,3/31/2020,Q1
+6005,  Software & Subscriptions,Actual,2020,Mar,-26300.84,3,3/1/2020,3/31/2020,Q1
+6006,  Travel,Actual,2020,Mar,-37450.96,3,3/1/2020,3/31/2020,Q1
+7001,  Interest Income,Actual,2020,Mar,3207,3,3/1/2020,3/31/2020,Q1
+7002,  Interest Expense,Actual,2020,Mar,-3604,3,3/1/2020,3/31/2020,Q1
+4001,  Core,Actual,2020,Apr,1060327.33,4,4/1/2020,4/30/2020,Q2
+4002,  Pro,Actual,2020,Apr,801554.5,4,4/1/2020,4/30/2020,Q2
+4010,  Services,Actual,2020,Apr,467586,4,4/1/2020,4/30/2020,Q2
+5001,  Materials,Actual,2020,Apr,-619629,4,4/1/2020,4/30/2020,Q2
+5002,  Direct Labor,Actual,2020,Apr,-277224,4,4/1/2020,4/30/2020,Q2
+5003,  Freight & Logistics,Actual,2020,Apr,-99722.72,4,4/1/2020,4/30/2020,Q2
+6001,  Salaries & Wages,Actual,2020,Apr,-824325.54,4,4/1/2020,4/30/2020,Q2
+6002,  Payroll Taxes,Actual,2020,Apr,-115405.58,4,4/1/2020,4/30/2020,Q2
+6003,  Rent,Actual,2020,Apr,-54173.92,4,4/1/2020,4/30/2020,Q2
+6004,  Marketing,Actual,2020,Apr,-130307.92,4,4/1/2020,4/30/2020,Q2
+6005,  Software & Subscriptions,Actual,2020,Apr,-26072.12,4,4/1/2020,4/30/2020,Q2
+6006,  Travel,Actual,2020,Apr,-12121.26,4,4/1/2020,4/30/2020,Q2
+7001,  Interest Income,Actual,2020,Apr,3400.55,4,4/1/2020,4/30/2020,Q2
+7002,  Interest Expense,Actual,2020,Apr,-3471.5,4,4/1/2020,4/30/2020,Q2
+4001,  Core,Actual,2020,May,1065571,5,5/1/2020,5/31/2020,Q2
+4002,  Pro,Actual,2020,May,794270.52,5,5/1/2020,5/31/2020,Q2
+4010,  Services,Actual,2020,May,468207.88,5,5/1/2020,5/31/2020,Q2
+5001,  Materials,Actual,2020,May,-609641.14,5,5/1/2020,5/31/2020,Q2
+5002,  Direct Labor,Actual,2020,May,-275972.15,5,5/1/2020,5/31/2020,Q2
+5003,  Freight & Logistics,Actual,2020,May,-98600.95,5,5/1/2020,5/31/2020,Q2
+6001,  Salaries & Wages,Actual,2020,May,-809341.99,5,5/1/2020,5/31/2020,Q2
+6002,  Payroll Taxes,Actual,2020,May,-113307.89,5,5/1/2020,5/31/2020,Q2
+6003,  Rent,Actual,2020,May,-53854.02,5,5/1/2020,5/31/2020,Q2
+6004,  Marketing,Actual,2020,May,-128522.69,5,5/1/2020,5/31/2020,Q2
+6005,  Software & Subscriptions,Actual,2020,May,-26758.22,5,5/1/2020,5/31/2020,Q2
+6006,  Travel,Actual,2020,May,-14990.19,5,5/1/2020,5/31/2020,Q2
+7001,  Interest Income,Actual,2020,May,3507.84,5,5/1/2020,5/31/2020,Q2
+7002,  Interest Expense,Actual,2020,May,-3562.43,5,5/1/2020,5/31/2020,Q2
+4001,  Core,Actual,2020,Jun,1056733.02,6,6/1/2020,6/30/2020,Q2
+4002,  Pro,Actual,2020,Jun,879808.61,6,6/1/2020,6/30/2020,Q2
+4010,  Services,Actual,2020,Jun,474343,6,6/1/2020,6/30/2020,Q2
+5001,  Materials,Actual,2020,Jun,-634903.65,6,6/1/2020,6/30/2020,Q2
+5002,  Direct Labor,Actual,2020,Jun,-280222.25,6,6/1/2020,6/30/2020,Q2
+5003,  Freight & Logistics,Actual,2020,Jun,-99320.63,6,6/1/2020,6/30/2020,Q2
+6001,  Salaries & Wages,Actual,2020,Jun,-836626,6,6/1/2020,6/30/2020,Q2
+6002,  Payroll Taxes,Actual,2020,Jun,-117128,6,6/1/2020,6/30/2020,Q2
+6003,  Rent,Actual,2020,Jun,-53518.39,6,6/1/2020,6/30/2020,Q2
+6004,  Marketing,Actual,2020,Jun,-122579.5,6,6/1/2020,6/30/2020,Q2
+6005,  Software & Subscriptions,Actual,2020,Jun,-26843.19,6,6/1/2020,6/30/2020,Q2
+6006,  Travel,Actual,2020,Jun,-13083.37,6,6/1/2020,6/30/2020,Q2
+7001,  Interest Income,Actual,2020,Jun,2943.98,6,6/1/2020,6/30/2020,Q2
+7002,  Interest Expense,Actual,2020,Jun,-3236.91,6,6/1/2020,6/30/2020,Q2
+4001,  Core,Actual,2020,Jul,1748126.6,7,7/1/2020,7/31/2020,Q3
+4002,  Pro,Actual,2020,Jul,1390132,7,7/1/2020,7/31/2020,Q3
+4010,  Services,Actual,2020,Jul,803199.11,7,7/1/2020,7/31/2020,Q3
+5001,  Materials,Actual,2020,Jul,-1035802.75,7,7/1/2020,7/31/2020,Q3
+5002,  Direct Labor,Actual,2020,Jul,-464800,7,7/1/2020,7/31/2020,Q3
+5003,  Freight & Logistics,Actual,2020,Jul,-167181.4,7,7/1/2020,7/31/2020,Q3
+6001,  Salaries & Wages,Actual,2020,Jul,-812324.79,7,7/1/2020,7/31/2020,Q3
+6002,  Payroll Taxes,Actual,2020,Jul,-113725.47,7,7/1/2020,7/31/2020,Q3
+6003,  Rent,Actual,2020,Jul,-53824.75,7,7/1/2020,7/31/2020,Q3
+6004,  Marketing,Actual,2020,Jul,-224321,7,7/1/2020,7/31/2020,Q3
+6005,  Software & Subscriptions,Actual,2020,Jul,-26958.98,7,7/1/2020,7/31/2020,Q3
+6006,  Travel,Actual,2020,Jul,-41548.52,7,7/1/2020,7/31/2020,Q3
+7001,  Interest Income,Actual,2020,Jul,2640,7,7/1/2020,7/31/2020,Q3
+7002,  Interest Expense,Actual,2020,Jul,-3613.08,7,7/1/2020,7/31/2020,Q3
+4001,  Core,Actual,2020,Aug,1775536.85,8,8/1/2020,8/31/2020,Q3
+4002,  Pro,Actual,2020,Aug,1299670.63,8,8/1/2020,8/31/2020,Q3
+4010,  Services,Actual,2020,Aug,777895.19,8,8/1/2020,8/31/2020,Q3
+5001,  Materials,Actual,2020,Aug,-992925.4,8,8/1/2020,8/31/2020,Q3
+5002,  Direct Labor,Actual,2020,Aug,-453999.26,8,8/1/2020,8/31/2020,Q3
+5003,  Freight & Logistics,Actual,2020,Aug,-163817.65,8,8/1/2020,8/31/2020,Q3
+6001,  Salaries & Wages,Actual,2020,Aug,-828490.42,8,8/1/2020,8/31/2020,Q3
+6002,  Payroll Taxes,Actual,2020,Aug,-115988.66,8,8/1/2020,8/31/2020,Q3
+6003,  Rent,Actual,2020,Aug,-54262.3,8,8/1/2020,8/31/2020,Q3
+6004,  Marketing,Actual,2020,Aug,-204619.58,8,8/1/2020,8/31/2020,Q3
+6005,  Software & Subscriptions,Actual,2020,Aug,-25947.87,8,8/1/2020,8/31/2020,Q3
+6006,  Travel,Actual,2020,Aug,-32178.46,8,8/1/2020,8/31/2020,Q3
+7001,  Interest Income,Actual,2020,Aug,3323.16,8,8/1/2020,8/31/2020,Q3
+7002,  Interest Expense,Actual,2020,Aug,-3720.4,8,8/1/2020,8/31/2020,Q3
+4001,  Core,Actual,2020,Sep,1654749.19,9,9/1/2020,9/30/2020,Q3
+4002,  Pro,Actual,2020,Sep,1319008.2,9,9/1/2020,9/30/2020,Q3
+4010,  Services,Actual,2020,Sep,720058.2,9,9/1/2020,9/30/2020,Q3
+5001,  Materials,Actual,2020,Sep,-962587.16,9,9/1/2020,9/30/2020,Q3
+5002,  Direct Labor,Actual,2020,Sep,-437253.86,9,9/1/2020,9/30/2020,Q3
+5003,  Freight & Logistics,Actual,2020,Sep,-155255.18,9,9/1/2020,9/30/2020,Q3
+6001,  Salaries & Wages,Actual,2020,Sep,-823439.7,9,9/1/2020,9/30/2020,Q3
+6002,  Payroll Taxes,Actual,2020,Sep,-115281.55,9,9/1/2020,9/30/2020,Q3
+6003,  Rent,Actual,2020,Sep,-54632.76,9,9/1/2020,9/30/2020,Q3
+6004,  Marketing,Actual,2020,Sep,-213656.95,9,9/1/2020,9/30/2020,Q3
+6005,  Software & Subscriptions,Actual,2020,Sep,-26654.71,9,9/1/2020,9/30/2020,Q3
+6006,  Travel,Actual,2020,Sep,-41747.71,9,9/1/2020,9/30/2020,Q3
+7001,  Interest Income,Actual,2020,Sep,2688.76,9,9/1/2020,9/30/2020,Q3
+7002,  Interest Expense,Actual,2020,Sep,,9,9/1/2020,9/30/2020,Q3
+4001,  Core,Actual,2020,Oct,1760545.6,10,10/1/2020,10/31/2020,Q4
+4002,  Pro,Actual,2020,Oct,1339415.44,10,10/1/2020,10/31/2020,Q4
+4010,  Services,Actual,2020,Oct,742690.11,10,10/1/2020,10/31/2020,Q4
+5001,  Materials,Actual,2020,Oct,-999024.65,10,10/1/2020,10/31/2020,Q4
+5002,  Direct Labor,Actual,2020,Oct,-452585.65,10,10/1/2020,10/31/2020,Q4
+5003,  Freight & Logistics,Actual,2020,Oct,-164367.96,10,10/1/2020,10/31/2020,Q4
+6001,  Salaries & Wages,Actual,2020,Oct,-823400.74,10,10/1/2020,10/31/2020,Q4
+6002,  Payroll Taxes,Actual,2020,Oct,-115276.1,10,10/1/2020,10/31/2020,Q4
+6003,  Rent,Actual,2020,Oct,-53986,10,10/1/2020,10/31/2020,Q4
+6004,  Marketing,Actual,2020,Oct,,10,10/1/2020,10/31/2020,Q4
+6005,  Software & Subscriptions,Actual,2020,Oct,-26611.5,10,10/1/2020,10/31/2020,Q4
+6006,  Travel,Actual,2020,Oct,-36605.65,10,10/1/2020,10/31/2020,Q4
+7001,  Interest Income,Actual,2020,Oct,2584,10,10/1/2020,10/31/2020,Q4
+7002,  Interest Expense,Actual,2020,Oct,-4419.83,10,10/1/2020,10/31/2020,Q4
+4001,  Core,Actual,2020,Nov,1805132.29,11,11/1/2020,11/30/2020,Q4
+4002,  Pro,Actual,2020,Nov,1408171,11,11/1/2020,11/30/2020,Q4
+4010,  Services,Actual,2020,Nov,,11,11/1/2020,11/30/2020,Q4
+5001,  Materials,Actual,2020,Nov,-1038497.77,11,11/1/2020,11/30/2020,Q4
+5002,  Direct Labor,Actual,2020,Nov,-477374.89,11,11/1/2020,11/30/2020,Q4
+5003,  Freight & Logistics,Actual,2020,Nov,-174450.73,11,11/1/2020,11/30/2020,Q4
+6001,  Salaries & Wages,Actual,2020,Nov,-824081.99,11,11/1/2020,11/30/2020,Q4
+6002,  Payroll Taxes,Actual,2020,Nov,-115371.49,11,11/1/2020,11/30/2020,Q4
+6003,  Rent,Actual,2020,Nov,-54205.66,11,11/1/2020,11/30/2020,Q4
+6004,  Marketing,Actual,2020,Nov,-227455,11,11/1/2020,11/30/2020,Q4
+6005,  Software & Subscriptions,Actual,2020,Nov,-26207.8,11,11/1/2020,11/30/2020,Q4
+6006,  Travel,Actual,2020,Nov,-41749.63,11,11/1/2020,11/30/2020,Q4
+7001,  Interest Income,Actual,2020,Nov,2488.81,11,11/1/2020,11/30/2020,Q4
+7002,  Interest Expense,Actual,2020,Nov,,11,11/1/2020,11/30/2020,Q4
+4001,  Core,Actual,2020,Dec,1823158.77,12,12/1/2020,12/31/2020,Q4
+4002,  Pro,Actual,2020,Dec,1441350.01,12,12/1/2020,12/31/2020,Q4
+4010,  Services,Actual,2020,Dec,802814.04,12,12/1/2020,12/31/2020,Q4
+5001,  Materials,Actual,2020,Dec,-1084208.28,12,12/1/2020,12/31/2020,Q4
+5002,  Direct Labor,Actual,2020,Dec,-481115.17,12,12/1/2020,12/31/2020,Q4
+5003,  Freight & Logistics,Actual,2020,Dec,-173772.18,12,12/1/2020,12/31/2020,Q4
+6001,  Salaries & Wages,Actual,2020,Dec,-827544.93,12,12/1/2020,12/31/2020,Q4
+6002,  Payroll Taxes,Actual,2020,Dec,,12,12/1/2020,12/31/2020,Q4
+6003,  Rent,Actual,2020,Dec,-54150,12,12/1/2020,12/31/2020,Q4
+6004,  Marketing,Actual,2020,Dec,-228193.26,12,12/1/2020,12/31/2020,Q4
+6005,  Software & Subscriptions,Actual,2020,Dec,-25901.82,12,12/1/2020,12/31/2020,Q4
+6006,  Travel,Actual,2020,Dec,-38300.94,12,12/1/2020,12/31/2020,Q4
+7001,  Interest Income,Actual,2020,Dec,2776.02,12,12/1/2020,12/31/2020,Q4
+7002,  Interest Expense,Actual,2020,Dec,-3743.76,12,12/1/2020,12/31/2020,Q4
+4001,  Core,Budget,2020,Jan,1694282.99,1,1/1/2020,1/31/2020,Q1
+4002,  Pro,Budget,2020,Jan,1305145,1,1/1/2020,1/31/2020,Q1
+4010,  Services,Budget,2020,Jan,,1,1/1/2020,1/31/2020,Q1
+5001,  Materials,Budget,2020,Jan,-986636.11,1,1/1/2020,1/31/2020,Q1
+5002,  Direct Labor,Budget,2020,Jan,-443999.57,1,1/1/2020,1/31/2020,Q1
+5003,  Freight & Logistics,Budget,2020,Jan,-157629.05,1,1/1/2020,1/31/2020,Q1
+6001,  Salaries & Wages,Budget,2020,Jan,-820106.38,1,1/1/2020,1/31/2020,Q1
+6002,  Payroll Taxes,Budget,2020,Jan,-114814.9,1,1/1/2020,1/31/2020,Q1
+6003,  Rent,Budget,2020,Jan,-53915.62,1,1/1/2020,1/31/2020,Q1
+6004,  Marketing,Budget,2020,Jan,-266424.53,1,1/1/2020,1/31/2020,Q1
+6005,  Software & Subscriptions,Budget,2020,Jan,-26521.66,1,1/1/2020,1/31/2020,Q1
+6006,  Travel,Budget,2020,Jan,-74798.42,1,1/1/2020,1/31/2020,Q1
+7001,  Interest Income,Budget,2020,Jan,3492,1,1/1/2020,1/31/2020,Q1
+7002,  Interest Expense,Budget,2020,Jan,-3535.44,1,1/1/2020,1/31/2020,Q1
+4001,  Core,Budget,2020,Feb,1778017.72,2,2/1/2020,2/29/2020,Q1
+4002,  Pro,Budget,2020,Feb,1416389,2,2/1/2020,2/29/2020,Q1
+4010,  Services,Budget,2020,Feb,,2,2/1/2020,2/29/2020,Q1
+5001,  Materials,Budget,2020,Feb,-1038694.75,2,2/1/2020,2/29/2020,Q1
+5002,  Direct Labor,Budget,2020,Feb,-467717.04,2,2/1/2020,2/29/2020,Q1
+5003,  Freight & Logistics,Budget,2020,Feb,-169144.04,2,2/1/2020,2/29/2020,Q1
+6001,  Salaries & Wages,Budget,2020,Feb,-842584.79,2,2/1/2020,2/29/2020,Q1
+6002,  Payroll Taxes,Budget,2020,Feb,-117961.88,2,2/1/2020,2/29/2020,Q1
+6003,  Rent,Budget,2020,Feb,-53818.12,2,2/1/2020,2/29/2020,Q1
+6004,  Marketing,Budget,2020,Feb,-295969.68,2,2/1/2020,2/29/2020,Q1
+6005,  Software & Subscriptions,Budget,2020,Feb,-26358.17,2,2/1/2020,2/29/2020,Q1
+6006,  Travel,Budget,2020,Feb,-77597.99,2,2/1/2020,2/29/2020,Q1
+7001,  Interest Income,Budget,2020,Feb,3393.38,2,2/1/2020,2/29/2020,Q1
+7002,  Interest Expense,Budget,2020,Feb,-3853.53,2,2/1/2020,2/29/2020,Q1
+4001,  Core,Budget,2020,Mar,1968219.96,3,3/1/2020,3/31/2020,Q1
+4002,  Pro,Budget,2020,Mar,1462680.29,3,3/1/2020,3/31/2020,Q1
+4010,  Services,Budget,2020,Mar,917426.34,3,3/1/2020,3/31/2020,Q1
+5001,  Materials,Budget,2020,Mar,-1133444.2,3,3/1/2020,3/31/2020,Q1
+5002,  Direct Labor,Budget,2020,Mar,-511781.41,3,3/1/2020,3/31/2020,Q1
+5003,  Freight & Logistics,Budget,2020,Mar,-181721,3,3/1/2020,3/31/2020,Q1
+6001,  Salaries & Wages,Budget,2020,Mar,-841760.19,3,3/1/2020,3/31/2020,Q1
+6002,  Payroll Taxes,Budget,2020,Mar,-117846.42,3,3/1/2020,3/31/2020,Q1
+6003,  Rent,Budget,2020,Mar,-53914.37,3,3/1/2020,3/31/2020,Q1
+6004,  Marketing,Budget,2020,Mar,-314059.95,3,3/1/2020,3/31/2020,Q1
+6005,  Software & Subscriptions,Budget,2020,Mar,-26191.07,3,3/1/2020,3/31/2020,Q1
+6006,  Travel,Budget,2020,Mar,-87129.68,3,3/1/2020,3/31/2020,Q1
+7001,  Interest Income,Budget,2020,Mar,3125.01,3,3/1/2020,3/31/2020,Q1
+7002,  Interest Expense,Budget,2020,Mar,-3669.55,3,3/1/2020,3/31/2020,Q1
+4001,  Core,Budget,2020,Apr,1176111.62,4,4/1/2020,4/30/2020,Q2
+4002,  Pro,Budget,2020,Apr,898270,4,4/1/2020,4/30/2020,Q2
+4010,  Services,Budget,2020,Apr,521940.28,4,4/1/2020,4/30/2020,Q2
+5001,  Materials,Budget,2020,Apr,-677402.74,4,4/1/2020,4/30/2020,Q2
+5002,  Direct Labor,Budget,2020,Apr,-306216.07,4,4/1/2020,4/30/2020,Q2
+5003,  Freight & Logistics,Budget,2020,Apr,-107578.4,4,4/1/2020,4/30/2020,Q2
+6001,  Salaries & Wages,Budget,2020,Apr,-847341.5,4,4/1/2020,4/30/2020,Q2
+6002,  Payroll Taxes,Budget,2020,Apr,-118627.82,4,4/1/2020,4/30/2020,Q2
+6003,  Rent,Budget,2020,Apr,-53904.89,4,4/1/2020,4/30/2020,Q2
+6004,  Marketing,Budget,2020,Apr,-187897.91,4,4/1/2020,4/30/2020,Q2
+6005,  Software & Subscriptions,Budget,2020,Apr,-26530.92,4,4/1/2020,4/30/2020,Q2
+6006,  Travel,Budget,2020,Apr,-50784.32,4,4/1/2020,4/30/2020,Q2
+7001,  Interest Income,Budget,2020,Apr,3234,4,4/1/2020,4/30/2020,Q2
+7002,  Interest Expense,Budget,2020,Apr,-4024.55,4,4/1/2020,4/30/2020,Q2
+4001,  Core,Budget,2020,May,,5,5/1/2020,5/31/2020,Q2
+4002,  Pro,Budget,2020,May,879336.78,5,5/1/2020,5/31/2020,Q2
+4010,  Services,Budget,2020,May,516319.16,5,5/1/2020,5/31/2020,Q2
+5001,  Materials,Budget,2020,May,-676215,5,5/1/2020,5/31/2020,Q2
+5002,  Direct Labor,Budget,2020,May,-304002.14,5,5/1/2020,5/31/2020,Q2
+5003,  Freight & Logistics,Budget,2020,May,-108649,5,5/1/2020,5/31/2020,Q2
+6001,  Salaries & Wages,Budget,2020,May,-829207,5,5/1/2020,5/31/2020,Q2
+6002,  Payroll Taxes,Budget,2020,May,-116088.93,5,5/1/2020,5/31/2020,Q2
+6003,  Rent,Budget,2020,May,-54049.74,5,5/1/2020,5/31/2020,Q2
+6004,  Marketing,Budget,2020,May,-192343.9,5,5/1/2020,5/31/2020,Q2
+6005,  Software & Subscriptions,Budget,2020,May,-26748.31,5,5/1/2020,5/31/2020,Q2
+6006,  Travel,Budget,2020,May,-52811.38,5,5/1/2020,5/31/2020,Q2
+7001,  Interest Income,Budget,2020,May,3246.02,5,5/1/2020,5/31/2020,Q2
+7002,  Interest Expense,Budget,2020,May,,5,5/1/2020,5/31/2020,Q2
+4001,  Core,Budget,2020,Jun,1165712,6,6/1/2020,6/30/2020,Q2
+4002,  Pro,Budget,2020,Jun,965678.22,6,6/1/2020,6/30/2020,Q2
+4010,  Services,Budget,2020,Jun,526373.44,6,6/1/2020,6/30/2020,Q2
+5001,  Materials,Budget,2020,Jun,-695412.16,6,6/1/2020,6/30/2020,Q2
+5002,  Direct Labor,Budget,2020,Jun,-315231.91,6,6/1/2020,6/30/2020,Q2
+5003,  Freight & Logistics,Budget,2020,Jun,-113225.27,6,6/1/2020,6/30/2020,Q2
+6001,  Salaries & Wages,Budget,2020,Jun,-849451.31,6,6/1/2020,6/30/2020,Q2
+6002,  Payroll Taxes,Budget,2020,Jun,-118923.19,6,6/1/2020,6/30/2020,Q2
+6003,  Rent,Budget,2020,Jun,-54146,6,6/1/2020,6/30/2020,Q2
+6004,  Marketing,Budget,2020,Jun,-193881.95,6,6/1/2020,6/30/2020,Q2
+6005,  Software & Subscriptions,Budget,2020,Jun,-26454.67,6,6/1/2020,6/30/2020,Q2
+6006,  Travel,Budget,2020,Jun,-53622.61,6,6/1/2020,6/30/2020,Q2
+7001,  Interest Income,Budget,2020,Jun,3098.65,6,6/1/2020,6/30/2020,Q2
+7002,  Interest Expense,Budget,2020,Jun,,6,6/1/2020,6/30/2020,Q2
+4001,  Core,Budget,2020,Jul,1919608.44,7,7/1/2020,7/31/2020,Q3
+4002,  Pro,Budget,2020,Jul,1536967.59,7,7/1/2020,7/31/2020,Q3
+4010,  Services,Budget,2020,Jul,893605.11,7,7/1/2020,7/31/2020,Q3
+5001,  Materials,Budget,2020,Jul,-1136087.56,7,7/1/2020,7/31/2020,Q3
+5002,  Direct Labor,Budget,2020,Jul,-515109.07,7,7/1/2020,7/31/2020,Q3
+5003,  Freight & Logistics,Budget,2020,Jul,-183455.7,7,7/1/2020,7/31/2020,Q3
+6001,  Salaries & Wages,Budget,2020,Jul,-829950,7,7/1/2020,7/31/2020,Q3
+6002,  Payroll Taxes,Budget,2020,Jul,-116193.02,7,7/1/2020,7/31/2020,Q3
+6003,  Rent,Budget,2020,Jul,-53716,7,7/1/2020,7/31/2020,Q3
+6004,  Marketing,Budget,2020,Jul,-325227.25,7,7/1/2020,7/31/2020,Q3
+6005,  Software & Subscriptions,Budget,2020,Jul,-26471.36,7,7/1/2020,7/31/2020,Q3
+6006,  Travel,Budget,2020,Jul,-89525.12,7,7/1/2020,7/31/2020,Q3
+7001,  Interest Income,Budget,2020,Jul,3092.68,7,7/1/2020,7/31/2020,Q3
+7002,  Interest Expense,Budget,2020,Jul,-3674.82,7,7/1/2020,7/31/2020,Q3
+4001,  Core,Budget,2020,Aug,1966118.42,8,8/1/2020,8/31/2020,Q3
+4002,  Pro,Budget,2020,Aug,1433897.75,8,8/1/2020,8/31/2020,Q3
+4010,  Services,Budget,2020,Aug,860788.73,8,8/1/2020,8/31/2020,Q3
+5001,  Materials,Budget,2020,Aug,-1115630,8,8/1/2020,8/31/2020,Q3
+5002,  Direct Labor,Budget,2020,Aug,-503571.73,8,8/1/2020,8/31/2020,Q3
+5003,  Freight & Logistics,Budget,2020,Aug,-179807.21,8,8/1/2020,8/31/2020,Q3
+6001,  Salaries & Wages,Budget,2020,Aug,-850733.97,8,8/1/2020,8/31/2020,Q3
+6002,  Payroll Taxes,Budget,2020,Aug,-119102.75,8,8/1/2020,8/31/2020,Q3
+6003,  Rent,Budget,2020,Aug,-54411.21,8,8/1/2020,8/31/2020,Q3
+6004,  Marketing,Budget,2020,Aug,-308145.47,8,8/1/2020,8/31/2020,Q3
+6005,  Software & Subscriptions,Budget,2020,Aug,-26527,8,8/1/2020,8/31/2020,Q3
+6006,  Travel,Budget,2020,Aug,-85165.5,8,8/1/2020,8/31/2020,Q3
+7001,  Interest Income,Budget,2020,Aug,2795.85,8,8/1/2020,8/31/2020,Q3
+7002,  Interest Expense,Budget,2020,Aug,-3481.45,8,8/1/2020,8/31/2020,Q3
+4001,  Core,Budget,2020,Sep,1813649.8,9,9/1/2020,9/30/2020,Q3
+4002,  Pro,Budget,2020,Sep,1445032.9,9,9/1/2020,9/30/2020,Q3
+4010,  Services,Budget,2020,Sep,792701.54,9,9/1/2020,9/30/2020,Q3
+5001,  Materials,Budget,2020,Sep,-1058297,9,9/1/2020,9/30/2020,Q3
+5002,  Direct Labor,Budget,2020,Sep,-479804.26,9,9/1/2020,9/30/2020,Q3
+5003,  Freight & Logistics,Budget,2020,Sep,-171258.17,9,9/1/2020,9/30/2020,Q3
+6001,  Salaries & Wages,Budget,2020,Sep,-841467.09,9,9/1/2020,9/30/2020,Q3
+6002,  Payroll Taxes,Budget,2020,Sep,-117805.38,9,9/1/2020,9/30/2020,Q3
+6003,  Rent,Budget,2020,Sep,-53835.85,9,9/1/2020,9/30/2020,Q3
+6004,  Marketing,Budget,2020,Sep,-289978.23,9,9/1/2020,9/30/2020,Q3
+6005,  Software & Subscriptions,Budget,2020,Sep,-26388.64,9,9/1/2020,9/30/2020,Q3
+6006,  Travel,Budget,2020,Sep,-80507,9,9/1/2020,9/30/2020,Q3
+7001,  Interest Income,Budget,2020,Sep,2899.97,9,9/1/2020,9/30/2020,Q3
+7002,  Interest Expense,Budget,2020,Sep,-3588.65,9,9/1/2020,9/30/2020,Q3
+4001,  Core,Budget,2020,Oct,1938712.38,10,10/1/2020,10/31/2020,Q4
+4002,  Pro,Budget,2020,Oct,1510398.36,10,10/1/2020,10/31/2020,Q4
+4010,  Services,Budget,2020,Oct,826245.47,10,10/1/2020,10/31/2020,Q4
+5001,  Materials,Budget,2020,Oct,-1129340,10,10/1/2020,10/31/2020,Q4
+5002,  Direct Labor,Budget,2020,Oct,-505827.97,10,10/1/2020,10/31/2020,Q4
+5003,  Freight & Logistics,Budget,2020,Oct,-181129.64,10,10/1/2020,10/31/2020,Q4
+6001,  Salaries & Wages,Budget,2020,Oct,-837962.97,10,10/1/2020,10/31/2020,Q4
+6002,  Payroll Taxes,Budget,2020,Oct,-117314.83,10,10/1/2020,10/31/2020,Q4
+6003,  Rent,Budget,2020,Oct,-53911.66,10,10/1/2020,10/31/2020,Q4
+6004,  Marketing,Budget,2020,Oct,-308479,10,10/1/2020,10/31/2020,Q4
+6005,  Software & Subscriptions,Budget,2020,Oct,-26871.88,10,10/1/2020,10/31/2020,Q4
+6006,  Travel,Budget,2020,Oct,-83970,10,10/1/2020,10/31/2020,Q4
+7001,  Interest Income,Budget,2020,Oct,2875,10,10/1/2020,10/31/2020,Q4
+7002,  Interest Expense,Budget,2020,Oct,-3802,10,10/1/2020,10/31/2020,Q4
+4001,  Core,Budget,2020,Nov,1996180.6,11,11/1/2020,11/30/2020,Q4
+4002,  Pro,Budget,2020,Nov,1562550.39,11,11/1/2020,11/30/2020,Q4
+4010,  Services,Budget,2020,Nov,930065.05,11,11/1/2020,11/30/2020,Q4
+5001,  Materials,Budget,2020,Nov,-1173927.97,11,11/1/2020,11/30/2020,Q4
+5002,  Direct Labor,Budget,2020,Nov,-526900.85,11,11/1/2020,11/30/2020,Q4
+5003,  Freight & Logistics,Budget,2020,Nov,-191650,11,11/1/2020,11/30/2020,Q4
+6001,  Salaries & Wages,Budget,2020,Nov,-840941.55,11,11/1/2020,11/30/2020,Q4
+6002,  Payroll Taxes,Budget,2020,Nov,-117732,11,11/1/2020,11/30/2020,Q4
+6003,  Rent,Budget,2020,Nov,-54004.54,11,11/1/2020,11/30/2020,Q4
+6004,  Marketing,Budget,2020,Nov,-323706.59,11,11/1/2020,11/30/2020,Q4
+6005,  Software & Subscriptions,Budget,2020,Nov,-26324.18,11,11/1/2020,11/30/2020,Q4
+6006,  Travel,Budget,2020,Nov,-85241.94,11,11/1/2020,11/30/2020,Q4
+7001,  Interest Income,Budget,2020,Nov,2972,11,11/1/2020,11/30/2020,Q4
+7002,  Interest Expense,Budget,2020,Nov,-3586.82,11,11/1/2020,11/30/2020,Q4
+4001,  Core,Budget,2020,Dec,2023975.34,12,12/1/2020,12/31/2020,Q4
+4002,  Pro,Budget,2020,Dec,1574569,12,12/1/2020,12/31/2020,Q4
+4010,  Services,Budget,2020,Dec,876082,12,12/1/2020,12/31/2020,Q4
+5001,  Materials,Budget,2020,Dec,-1174002.8,12,12/1/2020,12/31/2020,Q4
+5002,  Direct Labor,Budget,2020,Dec,-531362.74,12,12/1/2020,12/31/2020,Q4
+5003,  Freight & Logistics,Budget,2020,Dec,-187702,12,12/1/2020,12/31/2020,Q4
+6001,  Salaries & Wages,Budget,2020,Dec,-848140.14,12,12/1/2020,12/31/2020,Q4
+6002,  Payroll Taxes,Budget,2020,Dec,-118740,12,12/1/2020,12/31/2020,Q4
+6003,  Rent,Budget,2020,Dec,-53859,12,12/1/2020,12/31/2020,Q4
+6004,  Marketing,Budget,2020,Dec,-318968,12,12/1/2020,12/31/2020,Q4
+6005,  Software & Subscriptions,Budget,2020,Dec,-26494,12,12/1/2020,12/31/2020,Q4
+6006,  Travel,Budget,2020,Dec,-91873.02,12,12/1/2020,12/31/2020,Q4
+7001,  Interest Income,Budget,2020,Dec,3420.55,12,12/1/2020,12/31/2020,Q4
+7002,  Interest Expense,Budget,2020,Dec,-3380,12,12/1/2020,12/31/2020,Q4
+4001,  Core,Actual,2021,Jan,1796170.25,1,1/1/2021,1/31/2021,Q1
+4002,  Pro,Actual,2021,Jan,1375747.3,1,1/1/2021,1/31/2021,Q1
+4010,  Services,Actual,2021,Jan,,1,1/1/2021,1/31/2021,Q1
+5001,  Materials,Actual,2021,Jan,,1,1/1/2021,1/31/2021,Q1
+5002,  Direct Labor,Actual,2021,Jan,-472582.29,1,1/1/2021,1/31/2021,Q1
+5003,  Freight & Logistics,Actual,2021,Jan,-173329.11,1,1/1/2021,1/31/2021,Q1
+6001,  Salaries & Wages,Actual,2021,Jan,-854293,1,1/1/2021,1/31/2021,Q1
+6002,  Payroll Taxes,Actual,2021,Jan,-119601,1,1/1/2021,1/31/2021,Q1
+6003,  Rent,Actual,2021,Jan,-55148.41,1,1/1/2021,1/31/2021,Q1
+6004,  Marketing,Actual,2021,Jan,-253129.87,1,1/1/2021,1/31/2021,Q1
+6005,  Software & Subscriptions,Actual,2021,Jan,-26762.48,1,1/1/2021,1/31/2021,Q1
+6006,  Travel,Actual,2021,Jan,-59112,1,1/1/2021,1/31/2021,Q1
+7001,  Interest Income,Actual,2021,Jan,3843.68,1,1/1/2021,1/31/2021,Q1
+7002,  Interest Expense,Actual,2021,Jan,-4043.76,1,1/1/2021,1/31/2021,Q1
+4001,  Core,Actual,2021,Feb,1920126,2,2/1/2021,2/28/2021,Q1
+4002,  Pro,Actual,2021,Feb,1434686,2,2/1/2021,2/28/2021,Q1
+4010,  Services,Actual,2021,Feb,824712.78,2,2/1/2021,2/28/2021,Q1
+5001,  Materials,Actual,2021,Feb,-1095610,2,2/1/2021,2/28/2021,Q1
+5002,  Direct Labor,Actual,2021,Feb,-493241,2,2/1/2021,2/28/2021,Q1
+5003,  Freight & Logistics,Actual,2021,Feb,-176994.65,2,2/1/2021,2/28/2021,Q1
+6001,  Salaries & Wages,Actual,2021,Feb,-855175.57,2,2/1/2021,2/28/2021,Q1
+6002,  Payroll Taxes,Actual,2021,Feb,-119724.57,2,2/1/2021,2/28/2021,Q1
+6003,  Rent,Actual,2021,Feb,-54735.19,2,2/1/2021,2/28/2021,Q1
+6004,  Marketing,Actual,2021,Feb,-288768,2,2/1/2021,2/28/2021,Q1
+6005,  Software & Subscriptions,Actual,2021,Feb,-26854,2,2/1/2021,2/28/2021,Q1
+6006,  Travel,Actual,2021,Feb,-63125.71,2,2/1/2021,2/28/2021,Q1
+7001,  Interest Income,Actual,2021,Feb,3275.05,2,2/1/2021,2/28/2021,Q1
+7002,  Interest Expense,Actual,2021,Feb,-3515.99,2,2/1/2021,2/28/2021,Q1
+4001,  Core,Actual,2021,Mar,1961106.35,3,3/1/2021,3/31/2021,Q1
+4002,  Pro,Actual,2021,Mar,1554003,3,3/1/2021,3/31/2021,Q1
+4010,  Services,Actual,2021,Mar,889906.04,3,3/1/2021,3/31/2021,Q1
+5001,  Materials,Actual,2021,Mar,-1145758,3,3/1/2021,3/31/2021,Q1
+5002,  Direct Labor,Actual,2021,Mar,-521350.71,3,3/1/2021,3/31/2021,Q1
+5003,  Freight & Logistics,Actual,2021,Mar,-186981.17,3,3/1/2021,3/31/2021,Q1
+6001,  Salaries & Wages,Actual,2021,Mar,-862021.33,3,3/1/2021,3/31/2021,Q1
+6002,  Payroll Taxes,Actual,2021,Mar,-120682.98,3,3/1/2021,3/31/2021,Q1
+6003,  Rent,Actual,2021,Mar,-55503.33,3,3/1/2021,3/31/2021,Q1
+6004,  Marketing,Actual,2021,Mar,-274241.27,3,3/1/2021,3/31/2021,Q1
+6005,  Software & Subscriptions,Actual,2021,Mar,-27358.55,3,3/1/2021,3/31/2021,Q1
+6006,  Travel,Actual,2021,Mar,-69611.28,3,3/1/2021,3/31/2021,Q1
+7001,  Interest Income,Actual,2021,Mar,2515,3,3/1/2021,3/31/2021,Q1
+7002,  Interest Expense,Actual,2021,Mar,-3915.65,3,3/1/2021,3/31/2021,Q1
+4001,  Core,Actual,2021,Apr,1884919.21,4,4/1/2021,4/30/2021,Q2
+4002,  Pro,Actual,2021,Apr,1464329.09,4,4/1/2021,4/30/2021,Q2
+4010,  Services,Actual,2021,Apr,879940.31,4,4/1/2021,4/30/2021,Q2
+5001,  Materials,Actual,2021,Apr,,4,4/1/2021,4/30/2021,Q2
+5002,  Direct Labor,Actual,2021,Apr,-493200,4,4/1/2021,4/30/2021,Q2
+5003,  Freight & Logistics,Actual,2021,Apr,-179731,4,4/1/2021,4/30/2021,Q2
+6001,  Salaries & Wages,Actual,2021,Apr,-853561.62,4,4/1/2021,4/30/2021,Q2
+6002,  Payroll Taxes,Actual,2021,Apr,-119498.64,4,4/1/2021,4/30/2021,Q2
+6003,  Rent,Actual,2021,Apr,-55123.52,4,4/1/2021,4/30/2021,Q2
+6004,  Marketing,Actual,2021,Apr,-263039.69,4,4/1/2021,4/30/2021,Q2
+6005,  Software & Subscriptions,Actual,2021,Apr,-26551.75,4,4/1/2021,4/30/2021,Q2
+6006,  Travel,Actual,2021,Apr,-67793.76,4,4/1/2021,4/30/2021,Q2
+7001,  Interest Income,Actual,2021,Apr,2828,4,4/1/2021,4/30/2021,Q2
+7002,  Interest Expense,Actual,2021,Apr,-4132.09,4,4/1/2021,4/30/2021,Q2
+4001,  Core,Actual,2021,May,1972523.28,5,5/1/2021,5/31/2021,Q2
+4002,  Pro,Actual,2021,May,1468908.18,5,5/1/2021,5/31/2021,Q2
+4010,  Services,Actual,2021,May,908251.11,5,5/1/2021,5/31/2021,Q2
+5001,  Materials,Actual,2021,May,-1142771.44,5,5/1/2021,5/31/2021,Q2
+5002,  Direct Labor,Actual,2021,May,-507136.91,5,5/1/2021,5/31/2021,Q2
+5003,  Freight & Logistics,Actual,2021,May,-185267.11,5,5/1/2021,5/31/2021,Q2
+6001,  Salaries & Wages,Actual,2021,May,-851373.32,5,5/1/2021,5/31/2021,Q2
+6002,  Payroll Taxes,Actual,2021,May,-119192.27,5,5/1/2021,5/31/2021,Q2
+6003,  Rent,Actual,2021,May,-55130.61,5,5/1/2021,5/31/2021,Q2
+6004,  Marketing,Actual,2021,May,-277381.42,5,5/1/2021,5/31/2021,Q2
+6005,  Software & Subscriptions,Actual,2021,May,-27316.11,5,5/1/2021,5/31/2021,Q2
+6006,  Travel,Actual,2021,May,-62865.46,5,5/1/2021,5/31/2021,Q2
+7001,  Interest Income,Actual,2021,May,2336.97,5,5/1/2021,5/31/2021,Q2
+7002,  Interest Expense,Actual,2021,May,-3129,5,5/1/2021,5/31/2021,Q2
+4001,  Core,Actual,2021,Jun,2098190.97,6,6/1/2021,6/30/2021,Q2
+4002,  Pro,Actual,2021,Jun,1584932.38,6,6/1/2021,6/30/2021,Q2
+4010,  Services,Actual,2021,Jun,911130.17,6,6/1/2021,6/30/2021,Q2
+5001,  Materials,Actual,2021,Jun,,6,6/1/2021,6/30/2021,Q2
+5002,  Direct Labor,Actual,2021,Jun,-541597.64,6,6/1/2021,6/30/2021,Q2
+5003,  Freight & Logistics,Actual,2021,Jun,-200404.85,6,6/1/2021,6/30/2021,Q2
+6001,  Salaries & Wages,Actual,2021,Jun,-860771.23,6,6/1/2021,6/30/2021,Q2
+6002,  Payroll Taxes,Actual,2021,Jun,-120507.97,6,6/1/2021,6/30/2021,Q2
+6003,  Rent,Actual,2021,Jun,-54524.25,6,6/1/2021,6/30/2021,Q2
+6004,  Marketing,Actual,2021,Jun,-322320.24,6,6/1/2021,6/30/2021,Q2
+6005,  Software & Subscriptions,Actual,2021,Jun,-27050,6,6/1/2021,6/30/2021,Q2
+6006,  Travel,Actual,2021,Jun,-63289.97,6,6/1/2021,6/30/2021,Q2
+7001,  Interest Income,Actual,2021,Jun,2931.67,6,6/1/2021,6/30/2021,Q2
+7002,  Interest Expense,Actual,2021,Jun,-3664,6,6/1/2021,6/30/2021,Q2
+4001,  Core,Actual,2021,Jul,2061524,7,7/1/2021,7/31/2021,Q3
+4002,  Pro,Actual,2021,Jul,1501619.63,7,7/1/2021,7/31/2021,Q3
+4010,  Services,Actual,2021,Jul,951279.88,7,7/1/2021,7/31/2021,Q3
+5001,  Materials,Actual,2021,Jul,-1177959.68,7,7/1/2021,7/31/2021,Q3
+5002,  Direct Labor,Actual,2021,Jul,-531947.31,7,7/1/2021,7/31/2021,Q3
+5003,  Freight & Logistics,Actual,2021,Jul,-190659,7,7/1/2021,7/31/2021,Q3
+6001,  Salaries & Wages,Actual,2021,Jul,-859309.11,7,7/1/2021,7/31/2021,Q3
+6002,  Payroll Taxes,Actual,2021,Jul,-120303,7,7/1/2021,7/31/2021,Q3
+6003,  Rent,Actual,2021,Jul,-55389.77,7,7/1/2021,7/31/2021,Q3
+6004,  Marketing,Actual,2021,Jul,-312054,7,7/1/2021,7/31/2021,Q3
+6005,  Software & Subscriptions,Actual,2021,Jul,-27212.49,7,7/1/2021,7/31/2021,Q3
+6006,  Travel,Actual,2021,Jul,-57302.75,7,7/1/2021,7/31/2021,Q3
+7001,  Interest Income,Actual,2021,Jul,2783.96,7,7/1/2021,7/31/2021,Q3
+7002,  Interest Expense,Actual,2021,Jul,-4400.32,7,7/1/2021,7/31/2021,Q3
+4001,  Core,Actual,2021,Aug,1944309.39,8,8/1/2021,8/31/2021,Q3
+4002,  Pro,Actual,2021,Aug,1542677.59,8,8/1/2021,8/31/2021,Q3
+4010,  Services,Actual,2021,Aug,915968.42,8,8/1/2021,8/31/2021,Q3
+5001,  Materials,Actual,2021,Aug,-1136642.28,8,8/1/2021,8/31/2021,Q3
+5002,  Direct Labor,Actual,2021,Aug,-523820.1,8,8/1/2021,8/31/2021,Q3
+5003,  Freight & Logistics,Actual,2021,Aug,-182433.81,8,8/1/2021,8/31/2021,Q3
+6001,  Salaries & Wages,Actual,2021,Aug,-862849.1,8,8/1/2021,8/31/2021,Q3
+6002,  Payroll Taxes,Actual,2021,Aug,-120799,8,8/1/2021,8/31/2021,Q3
+6003,  Rent,Actual,2021,Aug,-55422.49,8,8/1/2021,8/31/2021,Q3
+6004,  Marketing,Actual,2021,Aug,-277795,8,8/1/2021,8/31/2021,Q3
+6005,  Software & Subscriptions,Actual,2021,Aug,-27589.81,8,8/1/2021,8/31/2021,Q3
+6006,  Travel,Actual,2021,Aug,-69962.38,8,8/1/2021,8/31/2021,Q3
+7001,  Interest Income,Actual,2021,Aug,2767.26,8,8/1/2021,8/31/2021,Q3
+7002,  Interest Expense,Actual,2021,Aug,-3853.67,8,8/1/2021,8/31/2021,Q3
+4001,  Core,Actual,2021,Sep,1845169.32,9,9/1/2021,9/30/2021,Q3
+4002,  Pro,Actual,2021,Sep,1421409.17,9,9/1/2021,9/30/2021,Q3
+4010,  Services,Actual,2021,Sep,913727.52,9,9/1/2021,9/30/2021,Q3
+5001,  Materials,Actual,2021,Sep,-1084592,9,9/1/2021,9/30/2021,Q3
+5002,  Direct Labor,Actual,2021,Sep,-486179.08,9,9/1/2021,9/30/2021,Q3
+5003,  Freight & Logistics,Actual,2021,Sep,-179481,9,9/1/2021,9/30/2021,Q3
+6001,  Salaries & Wages,Actual,2021,Sep,-882555.55,9,9/1/2021,9/30/2021,Q3
+6002,  Payroll Taxes,Actual,2021,Sep,-123557.78,9,9/1/2021,9/30/2021,Q3
+6003,  Rent,Actual,2021,Sep,-55133.49,9,9/1/2021,9/30/2021,Q3
+6004,  Marketing,Actual,2021,Sep,-267156.52,9,9/1/2021,9/30/2021,Q3
+6005,  Software & Subscriptions,Actual,2021,Sep,,9,9/1/2021,9/30/2021,Q3
+6006,  Travel,Actual,2021,Sep,-59217.43,9,9/1/2021,9/30/2021,Q3
+7001,  Interest Income,Actual,2021,Sep,2277.35,9,9/1/2021,9/30/2021,Q3
+7002,  Interest Expense,Actual,2021,Sep,-4186.32,9,9/1/2021,9/30/2021,Q3
+4001,  Core,Actual,2021,Oct,2167857.34,10,10/1/2021,10/31/2021,Q4
+4002,  Pro,Actual,2021,Oct,1509669.47,10,10/1/2021,10/31/2021,Q4
+4010,  Services,Actual,2021,Oct,916210.62,10,10/1/2021,10/31/2021,Q4
+5001,  Materials,Actual,2021,Oct,-1174612.03,10,10/1/2021,10/31/2021,Q4
+5002,  Direct Labor,Actual,2021,Oct,-539788.76,10,10/1/2021,10/31/2021,Q4
+5003,  Freight & Logistics,Actual,2021,Oct,-198554,10,10/1/2021,10/31/2021,Q4
+6001,  Salaries & Wages,Actual,2021,Oct,-865673,10,10/1/2021,10/31/2021,Q4
+6002,  Payroll Taxes,Actual,2021,Oct,-121194.23,10,10/1/2021,10/31/2021,Q4
+6003,  Rent,Actual,2021,Oct,-54854.27,10,10/1/2021,10/31/2021,Q4
+6004,  Marketing,Actual,2021,Oct,-298037.23,10,10/1/2021,10/31/2021,Q4
+6005,  Software & Subscriptions,Actual,2021,Oct,-27125,10,10/1/2021,10/31/2021,Q4
+6006,  Travel,Actual,2021,Oct,-74705.9,10,10/1/2021,10/31/2021,Q4
+7001,  Interest Income,Actual,2021,Oct,2659.65,10,10/1/2021,10/31/2021,Q4
+7002,  Interest Expense,Actual,2021,Oct,-4606,10,10/1/2021,10/31/2021,Q4
+4001,  Core,Actual,2021,Nov,2104303,11,11/1/2021,11/30/2021,Q4
+4002,  Pro,Actual,2021,Nov,1633977.4,11,11/1/2021,11/30/2021,Q4
+4010,  Services,Actual,2021,Nov,950544.51,11,11/1/2021,11/30/2021,Q4
+5001,  Materials,Actual,2021,Nov,-1225345.72,11,11/1/2021,11/30/2021,Q4
+5002,  Direct Labor,Actual,2021,Nov,-552595.27,11,11/1/2021,11/30/2021,Q4
+5003,  Freight & Logistics,Actual,2021,Nov,-191779,11,11/1/2021,11/30/2021,Q4
+6001,  Salaries & Wages,Actual,2021,Nov,-869181.72,11,11/1/2021,11/30/2021,Q4
+6002,  Payroll Taxes,Actual,2021,Nov,-121685.44,11,11/1/2021,11/30/2021,Q4
+6003,  Rent,Actual,2021,Nov,-54494.19,11,11/1/2021,11/30/2021,Q4
+6004,  Marketing,Actual,2021,Nov,-277536.39,11,11/1/2021,11/30/2021,Q4
+6005,  Software & Subscriptions,Actual,2021,Nov,-26743.37,11,11/1/2021,11/30/2021,Q4
+6006,  Travel,Actual,2021,Nov,-68292.08,11,11/1/2021,11/30/2021,Q4
+7001,  Interest Income,Actual,2021,Nov,2436,11,11/1/2021,11/30/2021,Q4
+7002,  Interest Expense,Actual,2021,Nov,-3963.06,11,11/1/2021,11/30/2021,Q4
+4001,  Core,Actual,2021,Dec,2200381.58,12,12/1/2021,12/31/2021,Q4
+4002,  Pro,Actual,2021,Dec,1578891.6,12,12/1/2021,12/31/2021,Q4
+4010,  Services,Actual,2021,Dec,994660.76,12,12/1/2021,12/31/2021,Q4
+5001,  Materials,Actual,2021,Dec,-1244446.55,12,12/1/2021,12/31/2021,Q4
+5002,  Direct Labor,Actual,2021,Dec,-563892.56,12,12/1/2021,12/31/2021,Q4
+5003,  Freight & Logistics,Actual,2021,Dec,-201858.13,12,12/1/2021,12/31/2021,Q4
+6001,  Salaries & Wages,Actual,2021,Dec,-854624.65,12,12/1/2021,12/31/2021,Q4
+6002,  Payroll Taxes,Actual,2021,Dec,-119647.46,12,12/1/2021,12/31/2021,Q4
+6003,  Rent,Actual,2021,Dec,-55193.42,12,12/1/2021,12/31/2021,Q4
+6004,  Marketing,Actual,2021,Dec,-320859.73,12,12/1/2021,12/31/2021,Q4
+6005,  Software & Subscriptions,Actual,2021,Dec,-26687,12,12/1/2021,12/31/2021,Q4
+6006,  Travel,Actual,2021,Dec,-60844.36,12,12/1/2021,12/31/2021,Q4
+7001,  Interest Income,Actual,2021,Dec,2257.09,12,12/1/2021,12/31/2021,Q4
+7002,  Interest Expense,Actual,2021,Dec,-4116.05,12,12/1/2021,12/31/2021,Q4
+4001,  Core,Budget,2021,Jan,1810555.8,1,1/1/2021,1/31/2021,Q1
+4002,  Pro,Budget,2021,Jan,1387025.89,1,1/1/2021,1/31/2021,Q1
+4010,  Services,Budget,2021,Jan,807251.43,1,1/1/2021,1/31/2021,Q1
+5001,  Materials,Budget,2021,Jan,-1047599.07,1,1/1/2021,1/31/2021,Q1
+5002,  Direct Labor,Budget,2021,Jan,-475201.66,1,1/1/2021,1/31/2021,Q1
+5003,  Freight & Logistics,Budget,2021,Jan,-170183.6,1,1/1/2021,1/31/2021,Q1
+6001,  Salaries & Wages,Budget,2021,Jan,-871839.49,1,1/1/2021,1/31/2021,Q1
+6002,  Payroll Taxes,Budget,2021,Jan,-122057.52,1,1/1/2021,1/31/2021,Q1
+6003,  Rent,Budget,2021,Jan,-55316.34,1,1/1/2021,1/31/2021,Q1
+6004,  Marketing,Budget,2021,Jan,-292888.41,1,1/1/2021,1/31/2021,Q1
+6005,  Software & Subscriptions,Budget,2021,Jan,-27030.59,1,1/1/2021,1/31/2021,Q1
+6006,  Travel,Budget,2021,Jan,-81045.45,1,1/1/2021,1/31/2021,Q1
+7001,  Interest Income,Budget,2021,Jan,3328.15,1,1/1/2021,1/31/2021,Q1
+7002,  Interest Expense,Budget,2021,Jan,-3595.48,1,1/1/2021,1/31/2021,Q1
+4001,  Core,Budget,2021,Feb,1918735.51,2,2/1/2021,2/28/2021,Q1
+4002,  Pro,Budget,2021,Feb,1450937.04,2,2/1/2021,2/28/2021,Q1
+4010,  Services,Budget,2021,Feb,801070.72,2,2/1/2021,2/28/2021,Q1
+5001,  Materials,Budget,2021,Feb,-1092080.43,2,2/1/2021,2/28/2021,Q1
+5002,  Direct Labor,Budget,2021,Feb,-490994.72,2,2/1/2021,2/28/2021,Q1
+5003,  Freight & Logistics,Budget,2021,Feb,-175041.53,2,2/1/2021,2/28/2021,Q1
+6001,  Salaries & Wages,Budget,2021,Feb,-868369,2,2/1/2021,2/28/2021,Q1
+6002,  Payroll Taxes,Budget,2021,Feb,-121572,2,2/1/2021,2/28/2021,Q1
+6003,  Rent,Budget,2021,Feb,-54940,2,2/1/2021,2/28/2021,Q1
+6004,  Marketing,Budget,2021,Feb,-306264.86,2,2/1/2021,2/28/2021,Q1
+6005,  Software & Subscriptions,Budget,2021,Feb,-27062.06,2,2/1/2021,2/28/2021,Q1
+6006,  Travel,Budget,2021,Feb,-80023,2,2/1/2021,2/28/2021,Q1
+7001,  Interest Income,Budget,2021,Feb,3188,2,2/1/2021,2/28/2021,Q1
+7002,  Interest Expense,Budget,2021,Feb,-3925.6,2,2/1/2021,2/28/2021,Q1
+4001,  Core,Budget,2021,Mar,1991313.63,3,3/1/2021,3/31/2021,Q1
+4002,  Pro,Budget,2021,Mar,1568651.96,3,3/1/2021,3/31/2021,Q1
+4010,  Services,Budget,2021,Mar,913979.81,3,3/1/2021,3/31/2021,Q1
+5001,  Materials,Budget,2021,Mar,-1172746.68,3,3/1/2021,3/31/2021,Q1
+5002,  Direct Labor,Budget,2021,Mar,-525451.95,3,3/1/2021,3/31/2021,Q1
+5003,  Freight & Logistics,Budget,2021,Mar,-188320.47,3,3/1/2021,3/31/2021,Q1
+6001,  Salaries & Wages,Budget,2021,Mar,-884289.05,3,3/1/2021,3/31/2021,Q1
+6002,  Payroll Taxes,Budget,2021,Mar,-123800.46,3,3/1/2021,3/31/2021,Q1
+6003,  Rent,Budget,2021,Mar,-55374.65,3,3/1/2021,3/31/2021,Q1
+6004,  Marketing,Budget,2021,Mar,-323656.03,3,3/1/2021,3/31/2021,Q1
+6005,  Software & Subscriptions,Budget,2021,Mar,-26943.94,3,3/1/2021,3/31/2021,Q1
+6006,  Travel,Budget,2021,Mar,-95739.98,3,3/1/2021,3/31/2021,Q1
+7001,  Interest Income,Budget,2021,Mar,3466.57,3,3/1/2021,3/31/2021,Q1
+7002,  Interest Expense,Budget,2021,Mar,-3646.76,3,3/1/2021,3/31/2021,Q1
+4001,  Core,Budget,2021,Apr,1896151.72,4,4/1/2021,4/30/2021,Q2
+4002,  Pro,Budget,2021,Apr,1494869.75,4,4/1/2021,4/30/2021,Q2
+4010,  Services,Budget,2021,Apr,898526.63,4,4/1/2021,4/30/2021,Q2
+5001,  Materials,Budget,2021,Apr,,4,4/1/2021,4/30/2021,Q2
+5002,  Direct Labor,Budget,2021,Apr,-505397.91,4,4/1/2021,4/30/2021,Q2
+5003,  Freight & Logistics,Budget,2021,Apr,-181512.66,4,4/1/2021,4/30/2021,Q2
+6001,  Salaries & Wages,Budget,2021,Apr,-865272.36,4,4/1/2021,4/30/2021,Q2
+6002,  Payroll Taxes,Budget,2021,Apr,-121138,4,4/1/2021,4/30/2021,Q2
+6003,  Rent,Budget,2021,Apr,-55288.37,4,4/1/2021,4/30/2021,Q2
+6004,  Marketing,Budget,2021,Apr,-303409.04,4,4/1/2021,4/30/2021,Q2
+6005,  Software & Subscriptions,Budget,2021,Apr,-27329.58,4,4/1/2021,4/30/2021,Q2
+6006,  Travel,Budget,2021,Apr,-86880.36,4,4/1/2021,4/30/2021,Q2
+7001,  Interest Income,Budget,2021,Apr,,4,4/1/2021,4/30/2021,Q2
+7002,  Interest Expense,Budget,2021,Apr,-3731.31,4,4/1/2021,4/30/2021,Q2
+4001,  Core,Budget,2021,May,1993606.58,5,5/1/2021,5/31/2021,Q2
+4002,  Pro,Budget,2021,May,1445839.16,5,5/1/2021,5/31/2021,Q2
+4010,  Services,Budget,2021,May,920906,5,5/1/2021,5/31/2021,Q2
+5001,  Materials,Budget,2021,May,-1129108.79,5,5/1/2021,5/31/2021,Q2
+5002,  Direct Labor,Budget,2021,May,-510395.79,5,5/1/2021,5/31/2021,Q2
+5003,  Freight & Logistics,Budget,2021,May,-179541.18,5,5/1/2021,5/31/2021,Q2
+6001,  Salaries & Wages,Budget,2021,May,-875165.04,5,5/1/2021,5/31/2021,Q2
+6002,  Payroll Taxes,Budget,2021,May,-122523.1,5,5/1/2021,5/31/2021,Q2
+6003,  Rent,Budget,2021,May,-54891.59,5,5/1/2021,5/31/2021,Q2
+6004,  Marketing,Budget,2021,May,-310376,5,5/1/2021,5/31/2021,Q2
+6005,  Software & Subscriptions,Budget,2021,May,-27434.48,5,5/1/2021,5/31/2021,Q2
+6006,  Travel,Budget,2021,May,-78576.71,5,5/1/2021,5/31/2021,Q2
+7001,  Interest Income,Budget,2021,May,3155.66,5,5/1/2021,5/31/2021,Q2
+7002,  Interest Expense,Budget,2021,May,-3856.33,5,5/1/2021,5/31/2021,Q2
+4001,  Core,Budget,2021,Jun,2124750,6,6/1/2021,6/30/2021,Q2
+4002,  Pro,Budget,2021,Jun,1618680.27,6,6/1/2021,6/30/2021,Q2
+4010,  Services,Budget,2021,Jun,934999.41,6,6/1/2021,6/30/2021,Q2
+5001,  Materials,Budget,2021,Jun,-1220949.6,6,6/1/2021,6/30/2021,Q2
+5002,  Direct Labor,Budget,2021,Jun,-552392.43,6,6/1/2021,6/30/2021,Q2
+5003,  Freight & Logistics,Budget,2021,Jun,-196684.87,6,6/1/2021,6/30/2021,Q2
+6001,  Salaries & Wages,Budget,2021,Jun,-866705,6,6/1/2021,6/30/2021,Q2
+6002,  Payroll Taxes,Budget,2021,Jun,-121339,6,6/1/2021,6/30/2021,Q2
+6003,  Rent,Budget,2021,Jun,-55243.71,6,6/1/2021,6/30/2021,Q2
+6004,  Marketing,Budget,2021,Jun,-329767.15,6,6/1/2021,6/30/2021,Q2
+6005,  Software & Subscriptions,Budget,2021,Jun,-27218.87,6,6/1/2021,6/30/2021,Q2
+6006,  Travel,Budget,2021,Jun,-94217.02,6,6/1/2021,6/30/2021,Q2
+7001,  Interest Income,Budget,2021,Jun,2745.91,6,6/1/2021,6/30/2021,Q2
+7002,  Interest Expense,Budget,2021,Jun,-3708.79,6,6/1/2021,6/30/2021,Q2
+4001,  Core,Budget,2021,Jul,2069890.27,7,7/1/2021,7/31/2021,Q3
+4002,  Pro,Budget,2021,Jul,1501486.67,7,7/1/2021,7/31/2021,Q3
+4010,  Services,Budget,2021,Jul,972428.5,7,7/1/2021,7/31/2021,Q3
+5001,  Materials,Budget,2021,Jul,-1179693.82,7,7/1/2021,7/31/2021,Q3
+5002,  Direct Labor,Budget,2021,Jul,-534811.63,7,7/1/2021,7/31/2021,Q3
+5003,  Freight & Logistics,Budget,2021,Jul,-191647.9,7,7/1/2021,7/31/2021,Q3
+6001,  Salaries & Wages,Budget,2021,Jul,,7,7/1/2021,7/31/2021,Q3
+6002,  Payroll Taxes,Budget,2021,Jul,-122063.46,7,7/1/2021,7/31/2021,Q3
+6003,  Rent,Budget,2021,Jul,-55239.98,7,7/1/2021,7/31/2021,Q3
+6004,  Marketing,Budget,2021,Jul,-320169.97,7,7/1/2021,7/31/2021,Q3
+6005,  Software & Subscriptions,Budget,2021,Jul,-27104.89,7,7/1/2021,7/31/2021,Q3
+6006,  Travel,Budget,2021,Jul,-88585,7,7/1/2021,7/31/2021,Q3
+7001,  Interest Income,Budget,2021,Jul,2946.83,7,7/1/2021,7/31/2021,Q3
+7002,  Interest Expense,Budget,2021,Jul,-3755.58,7,7/1/2021,7/31/2021,Q3
+4001,  Core,Budget,2021,Aug,2011881.62,8,8/1/2021,8/31/2021,Q3
+4002,  Pro,Budget,2021,Aug,1575302.99,8,8/1/2021,8/31/2021,Q3
+4010,  Services,Budget,2021,Aug,924587,8,8/1/2021,8/31/2021,Q3
+5001,  Materials,Budget,2021,Aug,-1177860.51,8,8/1/2021,8/31/2021,Q3
+5002,  Direct Labor,Budget,2021,Aug,-533037.1,8,8/1/2021,8/31/2021,Q3
+5003,  Freight & Logistics,Budget,2021,Aug,-188097,8,8/1/2021,8/31/2021,Q3
+6001,  Salaries & Wages,Budget,2021,Aug,-878040.45,8,8/1/2021,8/31/2021,Q3
+6002,  Payroll Taxes,Budget,2021,Aug,-122925.66,8,8/1/2021,8/31/2021,Q3
+6003,  Rent,Budget,2021,Aug,-54981.68,8,8/1/2021,8/31/2021,Q3
+6004,  Marketing,Budget,2021,Aug,,8,8/1/2021,8/31/2021,Q3
+6005,  Software & Subscriptions,Budget,2021,Aug,-27085.55,8,8/1/2021,8/31/2021,Q3
+6006,  Travel,Budget,2021,Aug,,8,8/1/2021,8/31/2021,Q3
+7001,  Interest Income,Budget,2021,Aug,3011.24,8,8/1/2021,8/31/2021,Q3
+7002,  Interest Expense,Budget,2021,Aug,-3910.66,8,8/1/2021,8/31/2021,Q3
+4001,  Core,Budget,2021,Sep,1865932.01,9,9/1/2021,9/30/2021,Q3
+4002,  Pro,Budget,2021,Sep,1425341.18,9,9/1/2021,9/30/2021,Q3
+4010,  Services,Budget,2021,Sep,937829.62,9,9/1/2021,9/30/2021,Q3
+5001,  Materials,Budget,2021,Sep,-1096523.7,9,9/1/2021,9/30/2021,Q3
+5002,  Direct Labor,Budget,2021,Sep,-497358.93,9,9/1/2021,9/30/2021,Q3
+5003,  Freight & Logistics,Budget,2021,Sep,-176717.8,9,9/1/2021,9/30/2021,Q3
+6001,  Salaries & Wages,Budget,2021,Sep,-900224.65,9,9/1/2021,9/30/2021,Q3
+6002,  Payroll Taxes,Budget,2021,Sep,,9,9/1/2021,9/30/2021,Q3
+6003,  Rent,Budget,2021,Sep,-55009.59,9,9/1/2021,9/30/2021,Q3
+6004,  Marketing,Budget,2021,Sep,-301775.85,9,9/1/2021,9/30/2021,Q3
+6005,  Software & Subscriptions,Budget,2021,Sep,-27248.67,9,9/1/2021,9/30/2021,Q3
+6006,  Travel,Budget,2021,Sep,-82139.69,9,9/1/2021,9/30/2021,Q3
+7001,  Interest Income,Budget,2021,Sep,2973.86,9,9/1/2021,9/30/2021,Q3
+7002,  Interest Expense,Budget,2021,Sep,-3512.6,9,9/1/2021,9/30/2021,Q3
+4001,  Core,Budget,2021,Oct,2196782.56,10,10/1/2021,10/31/2021,Q4
+4002,  Pro,Budget,2021,Oct,1500933.14,10,10/1/2021,10/31/2021,Q4
+4010,  Services,Budget,2021,Oct,924881.69,10,10/1/2021,10/31/2021,Q4
+5001,  Materials,Budget,2021,Oct,-1210521.82,10,10/1/2021,10/31/2021,Q4
+5002,  Direct Labor,Budget,2021,Oct,-547670.29,10,10/1/2021,10/31/2021,Q4
+5003,  Freight & Logistics,Budget,2021,Oct,-193718.29,10,10/1/2021,10/31/2021,Q4
+6001,  Salaries & Wages,Budget,2021,Oct,-887755,10,10/1/2021,10/31/2021,Q4
+6002,  Payroll Taxes,Budget,2021,Oct,-124285.62,10,10/1/2021,10/31/2021,Q4
+6003,  Rent,Budget,2021,Oct,-55002.16,10,10/1/2021,10/31/2021,Q4
+6004,  Marketing,Budget,2021,Oct,-341112,10,10/1/2021,10/31/2021,Q4
+6005,  Software & Subscriptions,Budget,2021,Oct,-26884,10,10/1/2021,10/31/2021,Q4
+6006,  Travel,Budget,2021,Oct,-94165,10,10/1/2021,10/31/2021,Q4
+7001,  Interest Income,Budget,2021,Oct,3086.01,10,10/1/2021,10/31/2021,Q4
+7002,  Interest Expense,Budget,2021,Oct,-3797.32,10,10/1/2021,10/31/2021,Q4
+4001,  Core,Budget,2021,Nov,2141494,11,11/1/2021,11/30/2021,Q4
+4002,  Pro,Budget,2021,Nov,1663996.57,11,11/1/2021,11/30/2021,Q4
+4010,  Services,Budget,2021,Nov,950998,11,11/1/2021,11/30/2021,Q4
+5001,  Materials,Budget,2021,Nov,-1242325.3,11,11/1/2021,11/30/2021,Q4
+5002,  Direct Labor,Budget,2021,Nov,-561308.79,11,11/1/2021,11/30/2021,Q4
+5003,  Freight & Logistics,Budget,2021,Nov,-202450.72,11,11/1/2021,11/30/2021,Q4
+6001,  Salaries & Wages,Budget,2021,Nov,-886547.26,11,11/1/2021,11/30/2021,Q4
+6002,  Payroll Taxes,Budget,2021,Nov,-124116.62,11,11/1/2021,11/30/2021,Q4
+6003,  Rent,Budget,2021,Nov,-55057.87,11,11/1/2021,11/30/2021,Q4
+6004,  Marketing,Budget,2021,Nov,-340894.97,11,11/1/2021,11/30/2021,Q4
+6005,  Software & Subscriptions,Budget,2021,Nov,-27209.29,11,11/1/2021,11/30/2021,Q4
+6006,  Travel,Budget,2021,Nov,-99660,11,11/1/2021,11/30/2021,Q4
+7001,  Interest Income,Budget,2021,Nov,,11,11/1/2021,11/30/2021,Q4
+7002,  Interest Expense,Budget,2021,Nov,-3539.79,11,11/1/2021,11/30/2021,Q4
+4001,  Core,Budget,2021,Dec,2204279.46,12,12/1/2021,12/31/2021,Q4
+4002,  Pro,Budget,2021,Dec,1606884.22,12,12/1/2021,12/31/2021,Q4
+4010,  Services,Budget,2021,Dec,1001782.86,12,12/1/2021,12/31/2021,Q4
+5001,  Materials,Budget,2021,Dec,,12,12/1/2021,12/31/2021,Q4
+5002,  Direct Labor,Budget,2021,Dec,-568945,12,12/1/2021,12/31/2021,Q4
+5003,  Freight & Logistics,Budget,2021,Dec,-201566.24,12,12/1/2021,12/31/2021,Q4
+6001,  Salaries & Wages,Budget,2021,Dec,-872863.64,12,12/1/2021,12/31/2021,Q4
+6002,  Payroll Taxes,Budget,2021,Dec,-122201,12,12/1/2021,12/31/2021,Q4
+6003,  Rent,Budget,2021,Dec,,12,12/1/2021,12/31/2021,Q4
+6004,  Marketing,Budget,2021,Dec,-351050.86,12,12/1/2021,12/31/2021,Q4
+6005,  Software & Subscriptions,Budget,2021,Dec,-27053,12,12/1/2021,12/31/2021,Q4
+6006,  Travel,Budget,2021,Dec,-98703.5,12,12/1/2021,12/31/2021,Q4
+7001,  Interest Income,Budget,2021,Dec,2941,12,12/1/2021,12/31/2021,Q4
+7002,  Interest Expense,Budget,2021,Dec,-3744.71,12,12/1/2021,12/31/2021,Q4
+4001,  Core,Actual,2022,Jan,1988156.75,1,1/1/2022,1/31/2022,Q1
+4002,  Pro,Actual,2022,Jan,1493006.36,1,1/1/2022,1/31/2022,Q1
+4010,  Services,Actual,2022,Jan,872544.4,1,1/1/2022,1/31/2022,Q1
+5001,  Materials,Actual,2022,Jan,,1,1/1/2022,1/31/2022,Q1
+5002,  Direct Labor,Actual,2022,Jan,-519346.52,1,1/1/2022,1/31/2022,Q1
+5003,  Freight & Logistics,Actual,2022,Jan,-201091.37,1,1/1/2022,1/31/2022,Q1
+6001,  Salaries & Wages,Actual,2022,Jan,-929572,1,1/1/2022,1/31/2022,Q1
+6002,  Payroll Taxes,Actual,2022,Jan,-130140.14,1,1/1/2022,1/31/2022,Q1
+6003,  Rent,Actual,2022,Jan,-57759.7,1,1/1/2022,1/31/2022,Q1
+6004,  Marketing,Actual,2022,Jan,-289230.49,1,1/1/2022,1/31/2022,Q1
+6005,  Software & Subscriptions,Actual,2022,Jan,-28576.86,1,1/1/2022,1/31/2022,Q1
+6006,  Travel,Actual,2022,Jan,-82105.96,1,1/1/2022,1/31/2022,Q1
+7001,  Interest Income,Actual,2022,Jan,2915.02,1,1/1/2022,1/31/2022,Q1
+7002,  Interest Expense,Actual,2022,Jan,-4048.23,1,1/1/2022,1/31/2022,Q1
+4001,  Core,Actual,2022,Feb,2010570.59,2,2/1/2022,2/28/2022,Q1
+4002,  Pro,Actual,2022,Feb,,2,2/1/2022,2/28/2022,Q1
+4010,  Services,Actual,2022,Feb,901025.75,2,2/1/2022,2/28/2022,Q1
+5001,  Materials,Actual,2022,Feb,-1234422.51,2,2/1/2022,2/28/2022,Q1
+5002,  Direct Labor,Actual,2022,Feb,-526416.28,2,2/1/2022,2/28/2022,Q1
+5003,  Freight & Logistics,Actual,2022,Feb,-202365,2,2/1/2022,2/28/2022,Q1
+6001,  Salaries & Wages,Actual,2022,Feb,-930317.98,2,2/1/2022,2/28/2022,Q1
+6002,  Payroll Taxes,Actual,2022,Feb,-130244.51,2,2/1/2022,2/28/2022,Q1
+6003,  Rent,Actual,2022,Feb,-58073,2,2/1/2022,2/28/2022,Q1
+6004,  Marketing,Actual,2022,Feb,-283608.96,2,2/1/2022,2/28/2022,Q1
+6005,  Software & Subscriptions,Actual,2022,Feb,-28635.57,2,2/1/2022,2/28/2022,Q1
+6006,  Travel,Actual,2022,Feb,-88966,2,2/1/2022,2/28/2022,Q1
+7001,  Interest Income,Actual,2022,Feb,3439.27,2,2/1/2022,2/28/2022,Q1
+7002,  Interest Expense,Actual,2022,Feb,-4033.23,2,2/1/2022,2/28/2022,Q1
+4001,  Core,Actual,2022,Mar,2234787,3,3/1/2022,3/31/2022,Q1
+4002,  Pro,Actual,2022,Mar,1707887,3,3/1/2022,3/31/2022,Q1
+4010,  Services,Actual,2022,Mar,998236.55,3,3/1/2022,3/31/2022,Q1
+5001,  Materials,Actual,2022,Mar,,3,3/1/2022,3/31/2022,Q1
+5002,  Direct Labor,Actual,2022,Mar,-590143.8,3,3/1/2022,3/31/2022,Q1
+5003,  Freight & Logistics,Actual,2022,Mar,-224363,3,3/1/2022,3/31/2022,Q1
+6001,  Salaries & Wages,Actual,2022,Mar,-909994.4,3,3/1/2022,3/31/2022,Q1
+6002,  Payroll Taxes,Actual,2022,Mar,-127399.22,3,3/1/2022,3/31/2022,Q1
+6003,  Rent,Actual,2022,Mar,,3,3/1/2022,3/31/2022,Q1
+6004,  Marketing,Actual,2022,Mar,-328874,3,3/1/2022,3/31/2022,Q1
+6005,  Software & Subscriptions,Actual,2022,Mar,-28720,3,3/1/2022,3/31/2022,Q1
+6006,  Travel,Actual,2022,Mar,-97524.92,3,3/1/2022,3/31/2022,Q1
+7001,  Interest Income,Actual,2022,Mar,3075,3,3/1/2022,3/31/2022,Q1
+7002,  Interest Expense,Actual,2022,Mar,-4028.15,3,3/1/2022,3/31/2022,Q1
+4001,  Core,Actual,2022,Apr,2235771.85,4,4/1/2022,4/30/2022,Q2
+4002,  Pro,Actual,2022,Apr,1607252.35,4,4/1/2022,4/30/2022,Q2
+4010,  Services,Actual,2022,Apr,943830.92,4,4/1/2022,4/30/2022,Q2
+5001,  Materials,Actual,2022,Apr,,4,4/1/2022,4/30/2022,Q2
+5002,  Direct Labor,Actual,2022,Apr,-565208,4,4/1/2022,4/30/2022,Q2
+5003,  Freight & Logistics,Actual,2022,Apr,-220212.36,4,4/1/2022,4/30/2022,Q2
+6001,  Salaries & Wages,Actual,2022,Apr,-917334.35,4,4/1/2022,4/30/2022,Q2
+6002,  Payroll Taxes,Actual,2022,Apr,-128427,4,4/1/2022,4/30/2022,Q2
+6003,  Rent,Actual,2022,Apr,-58444.19,4,4/1/2022,4/30/2022,Q2
+6004,  Marketing,Actual,2022,Apr,-314322.6,4,4/1/2022,4/30/2022,Q2
+6005,  Software & Subscriptions,Actual,2022,Apr,-28639.89,4,4/1/2022,4/30/2022,Q2
+6006,  Travel,Actual,2022,Apr,-95713.27,4,4/1/2022,4/30/2022,Q2
+7001,  Interest Income,Actual,2022,Apr,3130.52,4,4/1/2022,4/30/2022,Q2
+7002,  Interest Expense,Actual,2022,Apr,,4,4/1/2022,4/30/2022,Q2
+4001,  Core,Actual,2022,May,2204712.71,5,5/1/2022,5/31/2022,Q2
+4002,  Pro,Actual,2022,May,1736536.67,5,5/1/2022,5/31/2022,Q2
+4010,  Services,Actual,2022,May,1028405.57,5,5/1/2022,5/31/2022,Q2
+5001,  Materials,Actual,2022,May,-1362974.12,5,5/1/2022,5/31/2022,Q2
+5002,  Direct Labor,Actual,2022,May,-594901.36,5,5/1/2022,5/31/2022,Q2
+5003,  Freight & Logistics,Actual,2022,May,-234728.66,5,5/1/2022,5/31/2022,Q2
+6001,  Salaries & Wages,Actual,2022,May,-939156.18,5,5/1/2022,5/31/2022,Q2
+6002,  Payroll Taxes,Actual,2022,May,-131481.87,5,5/1/2022,5/31/2022,Q2
+6003,  Rent,Actual,2022,May,-58215.13,5,5/1/2022,5/31/2022,Q2
+6004,  Marketing,Actual,2022,May,-313027,5,5/1/2022,5/31/2022,Q2
+6005,  Software & Subscriptions,Actual,2022,May,-29203.51,5,5/1/2022,5/31/2022,Q2
+6006,  Travel,Actual,2022,May,-97315.67,5,5/1/2022,5/31/2022,Q2
+7001,  Interest Income,Actual,2022,May,3448.1,5,5/1/2022,5/31/2022,Q2
+7002,  Interest Expense,Actual,2022,May,-4308.06,5,5/1/2022,5/31/2022,Q2
+4001,  Core,Actual,2022,Jun,2403487.44,6,6/1/2022,6/30/2022,Q2
+4002,  Pro,Actual,2022,Jun,1766549.18,6,6/1/2022,6/30/2022,Q2
+4010,  Services,Actual,2022,Jun,973331.78,6,6/1/2022,6/30/2022,Q2
+5001,  Materials,Actual,2022,Jun,-1423942,6,6/1/2022,6/30/2022,Q2
+5002,  Direct Labor,Actual,2022,Jun,-605411,6,6/1/2022,6/30/2022,Q2
+5003,  Freight & Logistics,Actual,2022,Jun,-228374.53,6,6/1/2022,6/30/2022,Q2
+6001,  Salaries & Wages,Actual,2022,Jun,-928214.5,6,6/1/2022,6/30/2022,Q2
+6002,  Payroll Taxes,Actual,2022,Jun,-129950,6,6/1/2022,6/30/2022,Q2
+6003,  Rent,Actual,2022,Jun,-58339.96,6,6/1/2022,6/30/2022,Q2
+6004,  Marketing,Actual,2022,Jun,-331604.21,6,6/1/2022,6/30/2022,Q2
+6005,  Software & Subscriptions,Actual,2022,Jun,-28889.88,6,6/1/2022,6/30/2022,Q2
+6006,  Travel,Actual,2022,Jun,-104468.86,6,6/1/2022,6/30/2022,Q2
+7001,  Interest Income,Actual,2022,Jun,2968,6,6/1/2022,6/30/2022,Q2
+7002,  Interest Expense,Actual,2022,Jun,-4447.7,6,6/1/2022,6/30/2022,Q2
+4001,  Core,Actual,2022,Jul,2398389.39,7,7/1/2022,7/31/2022,Q3
+4002,  Pro,Actual,2022,Jul,1717148.85,7,7/1/2022,7/31/2022,Q3
+4010,  Services,Actual,2022,Jul,963712.95,7,7/1/2022,7/31/2022,Q3
+5001,  Materials,Actual,2022,Jul,-1407890.16,7,7/1/2022,7/31/2022,Q3
+5002,  Direct Labor,Actual,2022,Jul,-604321.01,7,7/1/2022,7/31/2022,Q3
+5003,  Freight & Logistics,Actual,2022,Jul,-230257.91,7,7/1/2022,7/31/2022,Q3
+6001,  Salaries & Wages,Actual,2022,Jul,-935982.18,7,7/1/2022,7/31/2022,Q3
+6002,  Payroll Taxes,Actual,2022,Jul,-131038,7,7/1/2022,7/31/2022,Q3
+6003,  Rent,Actual,2022,Jul,,7,7/1/2022,7/31/2022,Q3
+6004,  Marketing,Actual,2022,Jul,-335740,7,7/1/2022,7/31/2022,Q3
+6005,  Software & Subscriptions,Actual,2022,Jul,-28732,7,7/1/2022,7/31/2022,Q3
+6006,  Travel,Actual,2022,Jul,-109854.95,7,7/1/2022,7/31/2022,Q3
+7001,  Interest Income,Actual,2022,Jul,2751,7,7/1/2022,7/31/2022,Q3
+7002,  Interest Expense,Actual,2022,Jul,-3784.45,7,7/1/2022,7/31/2022,Q3
+4001,  Core,Actual,2022,Aug,2145918.44,8,8/1/2022,8/31/2022,Q3
+4002,  Pro,Actual,2022,Aug,1717339.83,8,8/1/2022,8/31/2022,Q3
+4010,  Services,Actual,2022,Aug,957407.2,8,8/1/2022,8/31/2022,Q3
+5001,  Materials,Actual,2022,Aug,-1344924.47,8,8/1/2022,8/31/2022,Q3
+5002,  Direct Labor,Actual,2022,Aug,-572205.17,8,8/1/2022,8/31/2022,Q3
+5003,  Freight & Logistics,Actual,2022,Aug,-220162.25,8,8/1/2022,8/31/2022,Q3
+6001,  Salaries & Wages,Actual,2022,Aug,-950681.54,8,8/1/2022,8/31/2022,Q3
+6002,  Payroll Taxes,Actual,2022,Aug,-133095,8,8/1/2022,8/31/2022,Q3
+6003,  Rent,Actual,2022,Aug,-58328.28,8,8/1/2022,8/31/2022,Q3
+6004,  Marketing,Actual,2022,Aug,-303534.59,8,8/1/2022,8/31/2022,Q3
+6005,  Software & Subscriptions,Actual,2022,Aug,-28492.03,8,8/1/2022,8/31/2022,Q3
+6006,  Travel,Actual,2022,Aug,-92456,8,8/1/2022,8/31/2022,Q3
+7001,  Interest Income,Actual,2022,Aug,2617.61,8,8/1/2022,8/31/2022,Q3
+7002,  Interest Expense,Actual,2022,Aug,-3781.33,8,8/1/2022,8/31/2022,Q3
+4001,  Core,Actual,2022,Sep,2059420,9,9/1/2022,9/30/2022,Q3
+4002,  Pro,Actual,2022,Sep,1629376.84,9,9/1/2022,9/30/2022,Q3
+4010,  Services,Actual,2022,Sep,953733.33,9,9/1/2022,9/30/2022,Q3
+5001,  Materials,Actual,2022,Sep,-1275081.55,9,9/1/2022,9/30/2022,Q3
+5002,  Direct Labor,Actual,2022,Sep,-549089.66,9,9/1/2022,9/30/2022,Q3
+5003,  Freight & Logistics,Actual,2022,Sep,-212183,9,9/1/2022,9/30/2022,Q3
+6001,  Salaries & Wages,Actual,2022,Sep,-932711,9,9/1/2022,9/30/2022,Q3
+6002,  Payroll Taxes,Actual,2022,Sep,-130579.59,9,9/1/2022,9/30/2022,Q3
+6003,  Rent,Actual,2022,Sep,-58497.6,9,9/1/2022,9/30/2022,Q3
+6004,  Marketing,Actual,2022,Sep,-299617.89,9,9/1/2022,9/30/2022,Q3
+6005,  Software & Subscriptions,Actual,2022,Sep,-28430.33,9,9/1/2022,9/30/2022,Q3
+6006,  Travel,Actual,2022,Sep,-97836.63,9,9/1/2022,9/30/2022,Q3
+7001,  Interest Income,Actual,2022,Sep,2537.66,9,9/1/2022,9/30/2022,Q3
+7002,  Interest Expense,Actual,2022,Sep,-4018.78,9,9/1/2022,9/30/2022,Q3
+4001,  Core,Actual,2022,Oct,2261018.43,10,10/1/2022,10/31/2022,Q4
+4002,  Pro,Actual,2022,Oct,1799993.82,10,10/1/2022,10/31/2022,Q4
+4010,  Services,Actual,2022,Oct,1032112.38,10,10/1/2022,10/31/2022,Q4
+5001,  Materials,Actual,2022,Oct,-1431685.61,10,10/1/2022,10/31/2022,Q4
+5002,  Direct Labor,Actual,2022,Oct,-611780.35,10,10/1/2022,10/31/2022,Q4
+5003,  Freight & Logistics,Actual,2022,Oct,-233572,10,10/1/2022,10/31/2022,Q4
+6001,  Salaries & Wages,Actual,2022,Oct,-940330.29,10,10/1/2022,10/31/2022,Q4
+6002,  Payroll Taxes,Actual,2022,Oct,-131646.23,10,10/1/2022,10/31/2022,Q4
+6003,  Rent,Actual,2022,Oct,-58579.62,10,10/1/2022,10/31/2022,Q4
+6004,  Marketing,Actual,2022,Oct,-340527,10,10/1/2022,10/31/2022,Q4
+6005,  Software & Subscriptions,Actual,2022,Oct,-27833.77,10,10/1/2022,10/31/2022,Q4
+6006,  Travel,Actual,2022,Oct,-99196,10,10/1/2022,10/31/2022,Q4
+7001,  Interest Income,Actual,2022,Oct,2922.09,10,10/1/2022,10/31/2022,Q4
+7002,  Interest Expense,Actual,2022,Oct,-4503.51,10,10/1/2022,10/31/2022,Q4
+4001,  Core,Actual,2022,Nov,2478453.29,11,11/1/2022,11/30/2022,Q4
+4002,  Pro,Actual,2022,Nov,1785549.66,11,11/1/2022,11/30/2022,Q4
+4010,  Services,Actual,2022,Nov,953462.18,11,11/1/2022,11/30/2022,Q4
+5001,  Materials,Actual,2022,Nov,-1461172.86,11,11/1/2022,11/30/2022,Q4
+5002,  Direct Labor,Actual,2022,Nov,-624059.27,11,11/1/2022,11/30/2022,Q4
+5003,  Freight & Logistics,Actual,2022,Nov,-232764.16,11,11/1/2022,11/30/2022,Q4
+6001,  Salaries & Wages,Actual,2022,Nov,-935326.32,11,11/1/2022,11/30/2022,Q4
+6002,  Payroll Taxes,Actual,2022,Nov,-130945.68,11,11/1/2022,11/30/2022,Q4
+6003,  Rent,Actual,2022,Nov,-58078.66,11,11/1/2022,11/30/2022,Q4
+6004,  Marketing,Actual,2022,Nov,-342907.69,11,11/1/2022,11/30/2022,Q4
+6005,  Software & Subscriptions,Actual,2022,Nov,-28294.53,11,11/1/2022,11/30/2022,Q4
+6006,  Travel,Actual,2022,Nov,-111154,11,11/1/2022,11/30/2022,Q4
+7001,  Interest Income,Actual,2022,Nov,3196,11,11/1/2022,11/30/2022,Q4
+7002,  Interest Expense,Actual,2022,Nov,-4154.68,11,11/1/2022,11/30/2022,Q4
+4001,  Core,Actual,2022,Dec,2320531.83,12,12/1/2022,12/31/2022,Q4
+4002,  Pro,Actual,2022,Dec,1770210.24,12,12/1/2022,12/31/2022,Q4
+4010,  Services,Actual,2022,Dec,1120937.53,12,12/1/2022,12/31/2022,Q4
+5001,  Materials,Actual,2022,Dec,-1449411.74,12,12/1/2022,12/31/2022,Q4
+5002,  Direct Labor,Actual,2022,Dec,-608012.07,12,12/1/2022,12/31/2022,Q4
+5003,  Freight & Logistics,Actual,2022,Dec,-230871.29,12,12/1/2022,12/31/2022,Q4
+6001,  Salaries & Wages,Actual,2022,Dec,-936763.41,12,12/1/2022,12/31/2022,Q4
+6002,  Payroll Taxes,Actual,2022,Dec,-131147,12,12/1/2022,12/31/2022,Q4
+6003,  Rent,Actual,2022,Dec,-58328,12,12/1/2022,12/31/2022,Q4
+6004,  Marketing,Actual,2022,Dec,-326928,12,12/1/2022,12/31/2022,Q4
+6005,  Software & Subscriptions,Actual,2022,Dec,-29174.71,12,12/1/2022,12/31/2022,Q4
+6006,  Travel,Actual,2022,Dec,-105502.81,12,12/1/2022,12/31/2022,Q4
+7001,  Interest Income,Actual,2022,Dec,,12,12/1/2022,12/31/2022,Q4
+7002,  Interest Expense,Actual,2022,Dec,-5055.93,12,12/1/2022,12/31/2022,Q4
+4001,  Core,Budget,2022,Jan,2022801.12,1,1/1/2022,1/31/2022,Q1
+4002,  Pro,Budget,2022,Jan,1505706.37,1,1/1/2022,1/31/2022,Q1
+4010,  Services,Budget,2022,Jan,894219.3,1,1/1/2022,1/31/2022,Q1
+5001,  Materials,Budget,2022,Jan,-1150149.78,1,1/1/2022,1/31/2022,Q1
+5002,  Direct Labor,Budget,2022,Jan,-519339.38,1,1/1/2022,1/31/2022,Q1
+5003,  Freight & Logistics,Budget,2022,Jan,-187671.6,1,1/1/2022,1/31/2022,Q1
+6001,  Salaries & Wages,Budget,2022,Jan,-943693.23,1,1/1/2022,1/31/2022,Q1
+6002,  Payroll Taxes,Budget,2022,Jan,-132117.05,1,1/1/2022,1/31/2022,Q1
+6003,  Rent,Budget,2022,Jan,-57958.84,1,1/1/2022,1/31/2022,Q1
+6004,  Marketing,Budget,2022,Jan,-312996.12,1,1/1/2022,1/31/2022,Q1
+6005,  Software & Subscriptions,Budget,2022,Jan,-28769.31,1,1/1/2022,1/31/2022,Q1
+6006,  Travel,Budget,2022,Jan,-87861.38,1,1/1/2022,1/31/2022,Q1
+7001,  Interest Income,Budget,2022,Jan,2858.61,1,1/1/2022,1/31/2022,Q1
+7002,  Interest Expense,Budget,2022,Jan,-3841.88,1,1/1/2022,1/31/2022,Q1
+4001,  Core,Budget,2022,Feb,2073435.02,2,2/1/2022,2/28/2022,Q1
+4002,  Pro,Budget,2022,Feb,1614097.38,2,2/1/2022,2/28/2022,Q1
+4010,  Services,Budget,2022,Feb,943360.41,2,2/1/2022,2/28/2022,Q1
+5001,  Materials,Budget,2022,Feb,-1215975.99,2,2/1/2022,2/28/2022,Q1
+5002,  Direct Labor,Budget,2022,Feb,-547135,2,2/1/2022,2/28/2022,Q1
+5003,  Freight & Logistics,Budget,2022,Feb,-194576,2,2/1/2022,2/28/2022,Q1
+6001,  Salaries & Wages,Budget,2022,Feb,-952452,2,2/1/2022,2/28/2022,Q1
+6002,  Payroll Taxes,Budget,2022,Feb,-133343.34,2,2/1/2022,2/28/2022,Q1
+6003,  Rent,Budget,2022,Feb,-58757.37,2,2/1/2022,2/28/2022,Q1
+6004,  Marketing,Budget,2022,Feb,-328901,2,2/1/2022,2/28/2022,Q1
+6005,  Software & Subscriptions,Budget,2022,Feb,-28498,2,2/1/2022,2/28/2022,Q1
+6006,  Travel,Budget,2022,Feb,-93768.52,2,2/1/2022,2/28/2022,Q1
+7001,  Interest Income,Budget,2022,Feb,3283.5,2,2/1/2022,2/28/2022,Q1
+7002,  Interest Expense,Budget,2022,Feb,-3569.58,2,2/1/2022,2/28/2022,Q1
+4001,  Core,Budget,2022,Mar,2276192,3,3/1/2022,3/31/2022,Q1
+4002,  Pro,Budget,2022,Mar,1757481.98,3,3/1/2022,3/31/2022,Q1
+4010,  Services,Budget,2022,Mar,1001867.02,3,3/1/2022,3/31/2022,Q1
+5001,  Materials,Budget,2022,Mar,-1322942.38,3,3/1/2022,3/31/2022,Q1
+5002,  Direct Labor,Budget,2022,Mar,-594369.81,3,3/1/2022,3/31/2022,Q1
+5003,  Freight & Logistics,Budget,2022,Mar,,3,3/1/2022,3/31/2022,Q1
+6001,  Salaries & Wages,Budget,2022,Mar,-938330.53,3,3/1/2022,3/31/2022,Q1
+6002,  Payroll Taxes,Budget,2022,Mar,-131366.27,3,3/1/2022,3/31/2022,Q1
+6003,  Rent,Budget,2022,Mar,-58141.62,3,3/1/2022,3/31/2022,Q1
+6004,  Marketing,Budget,2022,Mar,-351334.76,3,3/1/2022,3/31/2022,Q1
+6005,  Software & Subscriptions,Budget,2022,Mar,-28848.87,3,3/1/2022,3/31/2022,Q1
+6006,  Travel,Budget,2022,Mar,-106226.85,3,3/1/2022,3/31/2022,Q1
+7001,  Interest Income,Budget,2022,Mar,3455.59,3,3/1/2022,3/31/2022,Q1
+7002,  Interest Expense,Budget,2022,Mar,-4055.5,3,3/1/2022,3/31/2022,Q1
+4001,  Core,Budget,2022,Apr,2262535.39,4,4/1/2022,4/30/2022,Q2
+4002,  Pro,Budget,2022,Apr,1618856.56,4,4/1/2022,4/30/2022,Q2
+4010,  Services,Budget,2022,Apr,954293.95,4,4/1/2022,4/30/2022,Q2
+5001,  Materials,Budget,2022,Apr,-1257302,4,4/1/2022,4/30/2022,Q2
+5002,  Direct Labor,Budget,2022,Apr,-568602.77,4,4/1/2022,4/30/2022,Q2
+5003,  Freight & Logistics,Budget,2022,Apr,-201817.5,4,4/1/2022,4/30/2022,Q2
+6001,  Salaries & Wages,Budget,2022,Apr,-925157.42,4,4/1/2022,4/30/2022,Q2
+6002,  Payroll Taxes,Budget,2022,Apr,-129522.05,4,4/1/2022,4/30/2022,Q2
+6003,  Rent,Budget,2022,Apr,-58300.9,4,4/1/2022,4/30/2022,Q2
+6004,  Marketing,Budget,2022,Apr,-343663.34,4,4/1/2022,4/30/2022,Q2
+6005,  Software & Subscriptions,Budget,2022,Apr,-28603.93,4,4/1/2022,4/30/2022,Q2
+6006,  Travel,Budget,2022,Apr,-96748.29,4,4/1/2022,4/30/2022,Q2
+7001,  Interest Income,Budget,2022,Apr,,4,4/1/2022,4/30/2022,Q2
+7002,  Interest Expense,Budget,2022,Apr,-3915.81,4,4/1/2022,4/30/2022,Q2
+4001,  Core,Budget,2022,May,2214528.75,5,5/1/2022,5/31/2022,Q2
+4002,  Pro,Budget,2022,May,1759170.18,5,5/1/2022,5/31/2022,Q2
+4010,  Services,Budget,2022,May,1049901.25,5,5/1/2022,5/31/2022,Q2
+5001,  Materials,Budget,2022,May,-1305175,5,5/1/2022,5/31/2022,Q2
+5002,  Direct Labor,Budget,2022,May,-591022.5,5,5/1/2022,5/31/2022,Q2
+5003,  Freight & Logistics,Budget,2022,May,-210771.95,5,5/1/2022,5/31/2022,Q2
+6001,  Salaries & Wages,Budget,2022,May,-965484.52,5,5/1/2022,5/31/2022,Q2
+6002,  Payroll Taxes,Budget,2022,May,-135167.81,5,5/1/2022,5/31/2022,Q2
+6003,  Rent,Budget,2022,May,-58170.32,5,5/1/2022,5/31/2022,Q2
+6004,  Marketing,Budget,2022,May,-366224,5,5/1/2022,5/31/2022,Q2
+6005,  Software & Subscriptions,Budget,2022,May,-28645,5,5/1/2022,5/31/2022,Q2
+6006,  Travel,Budget,2022,May,-101898.04,5,5/1/2022,5/31/2022,Q2
+7001,  Interest Income,Budget,2022,May,3195.37,5,5/1/2022,5/31/2022,Q2
+7002,  Interest Expense,Budget,2022,May,-3919.78,5,5/1/2022,5/31/2022,Q2
+4001,  Core,Budget,2022,Jun,2395416.1,6,6/1/2022,6/30/2022,Q2
+4002,  Pro,Budget,2022,Jun,1775181.01,6,6/1/2022,6/30/2022,Q2
+4010,  Services,Budget,2022,Jun,1007425.55,6,6/1/2022,6/30/2022,Q2
+5001,  Materials,Budget,2022,Jun,-1358272,6,6/1/2022,6/30/2022,Q2
+5002,  Direct Labor,Budget,2022,Jun,-615073.09,6,6/1/2022,6/30/2022,Q2
+5003,  Freight & Logistics,Budget,2022,Jun,-216515.28,6,6/1/2022,6/30/2022,Q2
+6001,  Salaries & Wages,Budget,2022,Jun,-951029.28,6,6/1/2022,6/30/2022,Q2
+6002,  Payroll Taxes,Budget,2022,Jun,-133144.1,6,6/1/2022,6/30/2022,Q2
+6003,  Rent,Budget,2022,Jun,-58367,6,6/1/2022,6/30/2022,Q2
+6004,  Marketing,Budget,2022,Jun,-376061.11,6,6/1/2022,6/30/2022,Q2
+6005,  Software & Subscriptions,Budget,2022,Jun,-28580.31,6,6/1/2022,6/30/2022,Q2
+6006,  Travel,Budget,2022,Jun,-104016.82,6,6/1/2022,6/30/2022,Q2
+7001,  Interest Income,Budget,2022,Jun,3733.09,6,6/1/2022,6/30/2022,Q2
+7002,  Interest Expense,Budget,2022,Jun,-3784.82,6,6/1/2022,6/30/2022,Q2
+4001,  Core,Budget,2022,Jul,2496739,7,7/1/2022,7/31/2022,Q3
+4002,  Pro,Budget,2022,Jul,1745090.06,7,7/1/2022,7/31/2022,Q3
+4010,  Services,Budget,2022,Jul,964027.27,7,7/1/2022,7/31/2022,Q3
+5001,  Materials,Budget,2022,Jul,-1364815.25,7,7/1/2022,7/31/2022,Q3
+5002,  Direct Labor,Budget,2022,Jul,-615627.04,7,7/1/2022,7/31/2022,Q3
+5003,  Freight & Logistics,Budget,2022,Jul,-221392.12,7,7/1/2022,7/31/2022,Q3
+6001,  Salaries & Wages,Budget,2022,Jul,-956584.78,7,7/1/2022,7/31/2022,Q3
+6002,  Payroll Taxes,Budget,2022,Jul,-133921.87,7,7/1/2022,7/31/2022,Q3
+6003,  Rent,Budget,2022,Jul,-58445.22,7,7/1/2022,7/31/2022,Q3
+6004,  Marketing,Budget,2022,Jul,-367243.43,7,7/1/2022,7/31/2022,Q3
+6005,  Software & Subscriptions,Budget,2022,Jul,-28866,7,7/1/2022,7/31/2022,Q3
+6006,  Travel,Budget,2022,Jul,-107656.47,7,7/1/2022,7/31/2022,Q3
+7001,  Interest Income,Budget,2022,Jul,3125,7,7/1/2022,7/31/2022,Q3
+7002,  Interest Expense,Budget,2022,Jul,-3977.46,7,7/1/2022,7/31/2022,Q3
+4001,  Core,Budget,2022,Aug,2176281.98,8,8/1/2022,8/31/2022,Q3
+4002,  Pro,Budget,2022,Aug,1759200.16,8,8/1/2022,8/31/2022,Q3
+4010,  Services,Budget,2022,Aug,978203.17,8,8/1/2022,8/31/2022,Q3
+5001,  Materials,Budget,2022,Aug,-1292650.92,8,8/1/2022,8/31/2022,Q3
+5002,  Direct Labor,Budget,2022,Aug,-579507,8,8/1/2022,8/31/2022,Q3
+5003,  Freight & Logistics,Budget,2022,Aug,-210299.9,8,8/1/2022,8/31/2022,Q3
+6001,  Salaries & Wages,Budget,2022,Aug,-968817.49,8,8/1/2022,8/31/2022,Q3
+6002,  Payroll Taxes,Budget,2022,Aug,-135634.45,8,8/1/2022,8/31/2022,Q3
+6003,  Rent,Budget,2022,Aug,,8,8/1/2022,8/31/2022,Q3
+6004,  Marketing,Budget,2022,Aug,-356188,8,8/1/2022,8/31/2022,Q3
+6005,  Software & Subscriptions,Budget,2022,Aug,-28298.72,8,8/1/2022,8/31/2022,Q3
+6006,  Travel,Budget,2022,Aug,-99713.84,8,8/1/2022,8/31/2022,Q3
+7001,  Interest Income,Budget,2022,Aug,2933.91,8,8/1/2022,8/31/2022,Q3
+7002,  Interest Expense,Budget,2022,Aug,-3677.41,8,8/1/2022,8/31/2022,Q3
+4001,  Core,Budget,2022,Sep,2070792.3,9,9/1/2022,9/30/2022,Q3
+4002,  Pro,Budget,2022,Sep,1655471,9,9/1/2022,9/30/2022,Q3
+4010,  Services,Budget,2022,Sep,960716.61,9,9/1/2022,9/30/2022,Q3
+5001,  Materials,Budget,2022,Sep,-1218130.57,9,9/1/2022,9/30/2022,Q3
+5002,  Direct Labor,Budget,2022,Sep,-553938.53,9,9/1/2022,9/30/2022,Q3
+5003,  Freight & Logistics,Budget,2022,Sep,-198985.33,9,9/1/2022,9/30/2022,Q3
+6001,  Salaries & Wages,Budget,2022,Sep,-955520.58,9,9/1/2022,9/30/2022,Q3
+6002,  Payroll Taxes,Budget,2022,Sep,-133772.88,9,9/1/2022,9/30/2022,Q3
+6003,  Rent,Budget,2022,Sep,-58261.6,9,9/1/2022,9/30/2022,Q3
+6004,  Marketing,Budget,2022,Sep,-347006,9,9/1/2022,9/30/2022,Q3
+6005,  Software & Subscriptions,Budget,2022,Sep,-28548.47,9,9/1/2022,9/30/2022,Q3
+6006,  Travel,Budget,2022,Sep,-91005.19,9,9/1/2022,9/30/2022,Q3
+7001,  Interest Income,Budget,2022,Sep,2903.19,9,9/1/2022,9/30/2022,Q3
+7002,  Interest Expense,Budget,2022,Sep,-3972.38,9,9/1/2022,9/30/2022,Q3
+4001,  Core,Budget,2022,Oct,2299203.51,10,10/1/2022,10/31/2022,Q4
+4002,  Pro,Budget,2022,Oct,1849880,10,10/1/2022,10/31/2022,Q4
+4010,  Services,Budget,2022,Oct,1062843,10,10/1/2022,10/31/2022,Q4
+5001,  Materials,Budget,2022,Oct,-1360314.58,10,10/1/2022,10/31/2022,Q4
+5002,  Direct Labor,Budget,2022,Oct,-616822.69,10,10/1/2022,10/31/2022,Q4
+5003,  Freight & Logistics,Budget,2022,Oct,-220201.01,10,10/1/2022,10/31/2022,Q4
+6001,  Salaries & Wages,Budget,2022,Oct,-956358,10,10/1/2022,10/31/2022,Q4
+6002,  Payroll Taxes,Budget,2022,Oct,-133890.11,10,10/1/2022,10/31/2022,Q4
+6003,  Rent,Budget,2022,Oct,-58308.1,10,10/1/2022,10/31/2022,Q4
+6004,  Marketing,Budget,2022,Oct,-374483.96,10,10/1/2022,10/31/2022,Q4
+6005,  Software & Subscriptions,Budget,2022,Oct,,10,10/1/2022,10/31/2022,Q4
+6006,  Travel,Budget,2022,Oct,-102745.65,10,10/1/2022,10/31/2022,Q4
+7001,  Interest Income,Budget,2022,Oct,,10,10/1/2022,10/31/2022,Q4
+7002,  Interest Expense,Budget,2022,Oct,-3934,10,10/1/2022,10/31/2022,Q4
+4001,  Core,Budget,2022,Nov,2533139.63,11,11/1/2022,11/30/2022,Q4
+4002,  Pro,Budget,2022,Nov,1797497.05,11,11/1/2022,11/30/2022,Q4
+4010,  Services,Budget,2022,Nov,966358.71,11,11/1/2022,11/30/2022,Q4
+5001,  Materials,Budget,2022,Nov,-1399081.52,11,11/1/2022,11/30/2022,Q4
+5002,  Direct Labor,Budget,2022,Nov,-630158.33,11,11/1/2022,11/30/2022,Q4
+5003,  Freight & Logistics,Budget,2022,Nov,-224199.51,11,11/1/2022,11/30/2022,Q4
+6001,  Salaries & Wages,Budget,2022,Nov,-956961.12,11,11/1/2022,11/30/2022,Q4
+6002,  Payroll Taxes,Budget,2022,Nov,-133974.55,11,11/1/2022,11/30/2022,Q4
+6003,  Rent,Budget,2022,Nov,-58500,11,11/1/2022,11/30/2022,Q4
+6004,  Marketing,Budget,2022,Nov,-391578.94,11,11/1/2022,11/30/2022,Q4
+6005,  Software & Subscriptions,Budget,2022,Nov,-28547.52,11,11/1/2022,11/30/2022,Q4
+6006,  Travel,Budget,2022,Nov,-110448.06,11,11/1/2022,11/30/2022,Q4
+7001,  Interest Income,Budget,2022,Nov,3117.64,11,11/1/2022,11/30/2022,Q4
+7002,  Interest Expense,Budget,2022,Nov,-3884,11,11/1/2022,11/30/2022,Q4
+4001,  Core,Budget,2022,Dec,2390532.94,12,12/1/2022,12/31/2022,Q4
+4002,  Pro,Budget,2022,Dec,1823614.66,12,12/1/2022,12/31/2022,Q4
+4010,  Services,Budget,2022,Dec,1151159.62,12,12/1/2022,12/31/2022,Q4
+5001,  Materials,Budget,2022,Dec,-1390217.92,12,12/1/2022,12/31/2022,Q4
+5002,  Direct Labor,Budget,2022,Dec,-635237.33,12,12/1/2022,12/31/2022,Q4
+5003,  Freight & Logistics,Budget,2022,Dec,-221670.77,12,12/1/2022,12/31/2022,Q4
+6001,  Salaries & Wages,Budget,2022,Dec,-945778.84,12,12/1/2022,12/31/2022,Q4
+6002,  Payroll Taxes,Budget,2022,Dec,-132409.04,12,12/1/2022,12/31/2022,Q4
+6003,  Rent,Budget,2022,Dec,-58367.63,12,12/1/2022,12/31/2022,Q4
+6004,  Marketing,Budget,2022,Dec,-382780.5,12,12/1/2022,12/31/2022,Q4
+6005,  Software & Subscriptions,Budget,2022,Dec,-28587.72,12,12/1/2022,12/31/2022,Q4
+6006,  Travel,Budget,2022,Dec,-100283,12,12/1/2022,12/31/2022,Q4
+7001,  Interest Income,Budget,2022,Dec,2913,12,12/1/2022,12/31/2022,Q4
+7002,  Interest Expense,Budget,2022,Dec,-3907,12,12/1/2022,12/31/2022,Q4
+4001,  Core,Actual,2023,Jan,2092231.76,1,1/1/2023,1/31/2023,Q1
+4002,  Pro,Actual,2023,Jan,1738919.32,1,1/1/2023,1/31/2023,Q1
+4010,  Services,Actual,2023,Jan,942054.16,1,1/1/2023,1/31/2023,Q1
+5001,  Materials,Actual,2023,Jan,-1334347.04,1,1/1/2023,1/31/2023,Q1
+5002,  Direct Labor,Actual,2023,Jan,-567213.19,1,1/1/2023,1/31/2023,Q1
+5003,  Freight & Logistics,Actual,2023,Jan,-221817.67,1,1/1/2023,1/31/2023,Q1
+6001,  Salaries & Wages,Actual,2023,Jan,-971130.86,1,1/1/2023,1/31/2023,Q1
+6002,  Payroll Taxes,Actual,2023,Jan,-135958.33,1,1/1/2023,1/31/2023,Q1
+6003,  Rent,Actual,2023,Jan,-60285.81,1,1/1/2023,1/31/2023,Q1
+6004,  Marketing,Actual,2023,Jan,-327640.01,1,1/1/2023,1/31/2023,Q1
+6005,  Software & Subscriptions,Actual,2023,Jan,-29805.31,1,1/1/2023,1/31/2023,Q1
+6006,  Travel,Actual,2023,Jan,-95188,1,1/1/2023,1/31/2023,Q1
+7001,  Interest Income,Actual,2023,Jan,,1,1/1/2023,1/31/2023,Q1
+7002,  Interest Expense,Actual,2023,Jan,-3920.54,1,1/1/2023,1/31/2023,Q1
+4001,  Core,Actual,2023,Feb,2129401.65,2,2/1/2023,2/28/2023,Q1
+4002,  Pro,Actual,2023,Feb,1668092,2,2/1/2023,2/28/2023,Q1
+4010,  Services,Actual,2023,Feb,993027.37,2,2/1/2023,2/28/2023,Q1
+5001,  Materials,Actual,2023,Feb,-1339957.94,2,2/1/2023,2/28/2023,Q1
+5002,  Direct Labor,Actual,2023,Feb,-576010.9,2,2/1/2023,2/28/2023,Q1
+5003,  Freight & Logistics,Actual,2023,Feb,-222619.37,2,2/1/2023,2/28/2023,Q1
+6001,  Salaries & Wages,Actual,2023,Feb,-987434.5,2,2/1/2023,2/28/2023,Q1
+6002,  Payroll Taxes,Actual,2023,Feb,-138240.83,2,2/1/2023,2/28/2023,Q1
+6003,  Rent,Actual,2023,Feb,-60579.79,2,2/1/2023,2/28/2023,Q1
+6004,  Marketing,Actual,2023,Feb,-321175.43,2,2/1/2023,2/28/2023,Q1
+6005,  Software & Subscriptions,Actual,2023,Feb,-29825.53,2,2/1/2023,2/28/2023,Q1
+6006,  Travel,Actual,2023,Feb,-88552.2,2,2/1/2023,2/28/2023,Q1
+7001,  Interest Income,Actual,2023,Feb,3466.07,2,2/1/2023,2/28/2023,Q1
+7002,  Interest Expense,Actual,2023,Feb,-4520.95,2,2/1/2023,2/28/2023,Q1
+4001,  Core,Actual,2023,Mar,2478661,3,3/1/2023,3/31/2023,Q1
+4002,  Pro,Actual,2023,Mar,1813703.02,3,3/1/2023,3/31/2023,Q1
+4010,  Services,Actual,2023,Mar,1024678,3,3/1/2023,3/31/2023,Q1
+5001,  Materials,Actual,2023,Mar,-1448090.71,3,3/1/2023,3/31/2023,Q1
+5002,  Direct Labor,Actual,2023,Mar,-629957.02,3,3/1/2023,3/31/2023,Q1
+5003,  Freight & Logistics,Actual,2023,Mar,,3,3/1/2023,3/31/2023,Q1
+6001,  Salaries & Wages,Actual,2023,Mar,-981691.12,3,3/1/2023,3/31/2023,Q1
+6002,  Payroll Taxes,Actual,2023,Mar,-137436.77,3,3/1/2023,3/31/2023,Q1
+6003,  Rent,Actual,2023,Mar,-60027.2,3,3/1/2023,3/31/2023,Q1
+6004,  Marketing,Actual,2023,Mar,-315157,3,3/1/2023,3/31/2023,Q1
+6005,  Software & Subscriptions,Actual,2023,Mar,-29675.03,3,3/1/2023,3/31/2023,Q1
+6006,  Travel,Actual,2023,Mar,-104657,3,3/1/2023,3/31/2023,Q1
+7001,  Interest Income,Actual,2023,Mar,3546.09,3,3/1/2023,3/31/2023,Q1
+7002,  Interest Expense,Actual,2023,Mar,-4401,3,3/1/2023,3/31/2023,Q1
+4001,  Core,Actual,2023,Apr,2359814,4,4/1/2023,4/30/2023,Q2
+4002,  Pro,Actual,2023,Apr,1791595.18,4,4/1/2023,4/30/2023,Q2
+4010,  Services,Actual,2023,Apr,1070272.23,4,4/1/2023,4/30/2023,Q2
+5001,  Materials,Actual,2023,Apr,-1432959.63,4,4/1/2023,4/30/2023,Q2
+5002,  Direct Labor,Actual,2023,Apr,-622746.37,4,4/1/2023,4/30/2023,Q2
+5003,  Freight & Logistics,Actual,2023,Apr,-252728.57,4,4/1/2023,4/30/2023,Q2
+6001,  Salaries & Wages,Actual,2023,Apr,-980777.48,4,4/1/2023,4/30/2023,Q2
+6002,  Payroll Taxes,Actual,2023,Apr,-137308.84,4,4/1/2023,4/30/2023,Q2
+6003,  Rent,Actual,2023,Apr,-60539.65,4,4/1/2023,4/30/2023,Q2
+6004,  Marketing,Actual,2023,Apr,-320797.02,4,4/1/2023,4/30/2023,Q2
+6005,  Software & Subscriptions,Actual,2023,Apr,-29397,4,4/1/2023,4/30/2023,Q2
+6006,  Travel,Actual,2023,Apr,-98224.18,4,4/1/2023,4/30/2023,Q2
+7001,  Interest Income,Actual,2023,Apr,3037.13,4,4/1/2023,4/30/2023,Q2
+7002,  Interest Expense,Actual,2023,Apr,-4095.81,4,4/1/2023,4/30/2023,Q2
+4001,  Core,Actual,2023,May,2380254.09,5,5/1/2023,5/31/2023,Q2
+4002,  Pro,Actual,2023,May,1827087.33,5,5/1/2023,5/31/2023,Q2
+4010,  Services,Actual,2023,May,1122768.72,5,5/1/2023,5/31/2023,Q2
+5001,  Materials,Actual,2023,May,,5,5/1/2023,5/31/2023,Q2
+5002,  Direct Labor,Actual,2023,May,-628691.55,5,5/1/2023,5/31/2023,Q2
+5003,  Freight & Logistics,Actual,2023,May,-251028.42,5,5/1/2023,5/31/2023,Q2
+6001,  Salaries & Wages,Actual,2023,May,-982929.71,5,5/1/2023,5/31/2023,Q2
+6002,  Payroll Taxes,Actual,2023,May,-137610.16,5,5/1/2023,5/31/2023,Q2
+6003,  Rent,Actual,2023,May,-60799.93,5,5/1/2023,5/31/2023,Q2
+6004,  Marketing,Actual,2023,May,-339422.83,5,5/1/2023,5/31/2023,Q2
+6005,  Software & Subscriptions,Actual,2023,May,-30031.92,5,5/1/2023,5/31/2023,Q2
+6006,  Travel,Actual,2023,May,-119464.05,5,5/1/2023,5/31/2023,Q2
+7001,  Interest Income,Actual,2023,May,2435,5,5/1/2023,5/31/2023,Q2
+7002,  Interest Expense,Actual,2023,May,-4106.75,5,5/1/2023,5/31/2023,Q2
+4001,  Core,Actual,2023,Jun,2523690.84,6,6/1/2023,6/30/2023,Q2
+4002,  Pro,Actual,2023,Jun,1820655.51,6,6/1/2023,6/30/2023,Q2
+4010,  Services,Actual,2023,Jun,1138414.89,6,6/1/2023,6/30/2023,Q2
+5001,  Materials,Actual,2023,Jun,-1523136.3,6,6/1/2023,6/30/2023,Q2
+5002,  Direct Labor,Actual,2023,Jun,-653511,6,6/1/2023,6/30/2023,Q2
+5003,  Freight & Logistics,Actual,2023,Jun,-250915.76,6,6/1/2023,6/30/2023,Q2
+6001,  Salaries & Wages,Actual,2023,Jun,-964011,6,6/1/2023,6/30/2023,Q2
+6002,  Payroll Taxes,Actual,2023,Jun,-134961.49,6,6/1/2023,6/30/2023,Q2
+6003,  Rent,Actual,2023,Jun,-60519.94,6,6/1/2023,6/30/2023,Q2
+6004,  Marketing,Actual,2023,Jun,-364370,6,6/1/2023,6/30/2023,Q2
+6005,  Software & Subscriptions,Actual,2023,Jun,-29537.52,6,6/1/2023,6/30/2023,Q2
+6006,  Travel,Actual,2023,Jun,-106082,6,6/1/2023,6/30/2023,Q2
+7001,  Interest Income,Actual,2023,Jun,2392.73,6,6/1/2023,6/30/2023,Q2
+7002,  Interest Expense,Actual,2023,Jun,-4384.45,6,6/1/2023,6/30/2023,Q2
+4001,  Core,Actual,2023,Jul,2436507,7,7/1/2023,7/31/2023,Q3
+4002,  Pro,Actual,2023,Jul,1823818.81,7,7/1/2023,7/31/2023,Q3
+4010,  Services,Actual,2023,Jul,1097884.94,7,7/1/2023,7/31/2023,Q3
+5001,  Materials,Actual,2023,Jul,-1482372.91,7,7/1/2023,7/31/2023,Q3
+5002,  Direct Labor,Actual,2023,Jul,-631555.96,7,7/1/2023,7/31/2023,Q3
+5003,  Freight & Logistics,Actual,2023,Jul,-252774,7,7/1/2023,7/31/2023,Q3
+6001,  Salaries & Wages,Actual,2023,Jul,-981614.07,7,7/1/2023,7/31/2023,Q3
+6002,  Payroll Taxes,Actual,2023,Jul,-137425.97,7,7/1/2023,7/31/2023,Q3
+6003,  Rent,Actual,2023,Jul,-60794.47,7,7/1/2023,7/31/2023,Q3
+6004,  Marketing,Actual,2023,Jul,-339481,7,7/1/2023,7/31/2023,Q3
+6005,  Software & Subscriptions,Actual,2023,Jul,-29701.51,7,7/1/2023,7/31/2023,Q3
+6006,  Travel,Actual,2023,Jul,-110664.29,7,7/1/2023,7/31/2023,Q3
+7001,  Interest Income,Actual,2023,Jul,3168.48,7,7/1/2023,7/31/2023,Q3
+7002,  Interest Expense,Actual,2023,Jul,-4102,7,7/1/2023,7/31/2023,Q3
+4001,  Core,Actual,2023,Aug,2221681.99,8,8/1/2023,8/31/2023,Q3
+4002,  Pro,Actual,2023,Aug,,8,8/1/2023,8/31/2023,Q3
+4010,  Services,Actual,2023,Aug,1125789.56,8,8/1/2023,8/31/2023,Q3
+5001,  Materials,Actual,2023,Aug,-1426290.88,8,8/1/2023,8/31/2023,Q3
+5002,  Direct Labor,Actual,2023,Aug,-594015,8,8/1/2023,8/31/2023,Q3
+5003,  Freight & Logistics,Actual,2023,Aug,-243163,8,8/1/2023,8/31/2023,Q3
+6001,  Salaries & Wages,Actual,2023,Aug,-974651,8,8/1/2023,8/31/2023,Q3
+6002,  Payroll Taxes,Actual,2023,Aug,-136451.11,8,8/1/2023,8/31/2023,Q3
+6003,  Rent,Actual,2023,Aug,-60959.82,8,8/1/2023,8/31/2023,Q3
+6004,  Marketing,Actual,2023,Aug,-314516.84,8,8/1/2023,8/31/2023,Q3
+6005,  Software & Subscriptions,Actual,2023,Aug,-29107.18,8,8/1/2023,8/31/2023,Q3
+6006,  Travel,Actual,2023,Aug,-114877.67,8,8/1/2023,8/31/2023,Q3
+7001,  Interest Income,Actual,2023,Aug,2525.68,8,8/1/2023,8/31/2023,Q3
+7002,  Interest Expense,Actual,2023,Aug,-4540.11,8,8/1/2023,8/31/2023,Q3
+4001,  Core,Actual,2023,Sep,2166156.61,9,9/1/2023,9/30/2023,Q3
+4002,  Pro,Actual,2023,Sep,1814931.61,9,9/1/2023,9/30/2023,Q3
+4010,  Services,Actual,2023,Sep,,9,9/1/2023,9/30/2023,Q3
+5001,  Materials,Actual,2023,Sep,-1398880.41,9,9/1/2023,9/30/2023,Q3
+5002,  Direct Labor,Actual,2023,Sep,-597567.16,9,9/1/2023,9/30/2023,Q3
+5003,  Freight & Logistics,Actual,2023,Sep,-227271.46,9,9/1/2023,9/30/2023,Q3
+6001,  Salaries & Wages,Actual,2023,Sep,-985777,9,9/1/2023,9/30/2023,Q3
+6002,  Payroll Taxes,Actual,2023,Sep,-138008.83,9,9/1/2023,9/30/2023,Q3
+6003,  Rent,Actual,2023,Sep,-60314.67,9,9/1/2023,9/30/2023,Q3
+6004,  Marketing,Actual,2023,Sep,-313109.21,9,9/1/2023,9/30/2023,Q3
+6005,  Software & Subscriptions,Actual,2023,Sep,-29979.81,9,9/1/2023,9/30/2023,Q3
+6006,  Travel,Actual,2023,Sep,-95360.46,9,9/1/2023,9/30/2023,Q3
+7001,  Interest Income,Actual,2023,Sep,2736.93,9,9/1/2023,9/30/2023,Q3
+7002,  Interest Expense,Actual,2023,Sep,-4470,9,9/1/2023,9/30/2023,Q3
+4001,  Core,Actual,2023,Oct,2437690.74,10,10/1/2023,10/31/2023,Q4
+4002,  Pro,Actual,2023,Oct,1826026.71,10,10/1/2023,10/31/2023,Q4
+4010,  Services,Actual,2023,Oct,1075881.17,10,10/1/2023,10/31/2023,Q4
+5001,  Materials,Actual,2023,Oct,-1478994.73,10,10/1/2023,10/31/2023,Q4
+5002,  Direct Labor,Actual,2023,Oct,-637452.44,10,10/1/2023,10/31/2023,Q4
+5003,  Freight & Logistics,Actual,2023,Oct,-255592.03,10,10/1/2023,10/31/2023,Q4
+6001,  Salaries & Wages,Actual,2023,Oct,-983583.05,10,10/1/2023,10/31/2023,Q4
+6002,  Payroll Taxes,Actual,2023,Oct,-137702,10,10/1/2023,10/31/2023,Q4
+6003,  Rent,Actual,2023,Oct,-60785,10,10/1/2023,10/31/2023,Q4
+6004,  Marketing,Actual,2023,Oct,-336131.73,10,10/1/2023,10/31/2023,Q4
+6005,  Software & Subscriptions,Actual,2023,Oct,-29658.43,10,10/1/2023,10/31/2023,Q4
+6006,  Travel,Actual,2023,Oct,-114900.02,10,10/1/2023,10/31/2023,Q4
+7001,  Interest Income,Actual,2023,Oct,3086.45,10,10/1/2023,10/31/2023,Q4
+7002,  Interest Expense,Actual,2023,Oct,-4670.34,10,10/1/2023,10/31/2023,Q4
+4001,  Core,Actual,2023,Nov,2322821.25,11,11/1/2023,11/30/2023,Q4
+4002,  Pro,Actual,2023,Nov,2021406.89,11,11/1/2023,11/30/2023,Q4
+4010,  Services,Actual,2023,Nov,1065388.53,11,11/1/2023,11/30/2023,Q4
+5001,  Materials,Actual,2023,Nov,-1496846.22,11,11/1/2023,11/30/2023,Q4
+5002,  Direct Labor,Actual,2023,Nov,-643382.42,11,11/1/2023,11/30/2023,Q4
+5003,  Freight & Logistics,Actual,2023,Nov,-246189.85,11,11/1/2023,11/30/2023,Q4
+6001,  Salaries & Wages,Actual,2023,Nov,-958979.3,11,11/1/2023,11/30/2023,Q4
+6002,  Payroll Taxes,Actual,2023,Nov,-134257.1,11,11/1/2023,11/30/2023,Q4
+6003,  Rent,Actual,2023,Nov,-60408.24,11,11/1/2023,11/30/2023,Q4
+6004,  Marketing,Actual,2023,Nov,-330802.98,11,11/1/2023,11/30/2023,Q4
+6005,  Software & Subscriptions,Actual,2023,Nov,-30518,11,11/1/2023,11/30/2023,Q4
+6006,  Travel,Actual,2023,Nov,-119337.47,11,11/1/2023,11/30/2023,Q4
+7001,  Interest Income,Actual,2023,Nov,3192.53,11,11/1/2023,11/30/2023,Q4
+7002,  Interest Expense,Actual,2023,Nov,-4020.75,11,11/1/2023,11/30/2023,Q4
+4001,  Core,Actual,2023,Dec,2517297.37,12,12/1/2023,12/31/2023,Q4
+4002,  Pro,Actual,2023,Dec,1919056.57,12,12/1/2023,12/31/2023,Q4
+4010,  Services,Actual,2023,Dec,1105193.64,12,12/1/2023,12/31/2023,Q4
+5001,  Materials,Actual,2023,Dec,-1534176.34,12,12/1/2023,12/31/2023,Q4
+5002,  Direct Labor,Actual,2023,Dec,,12,12/1/2023,12/31/2023,Q4
+5003,  Freight & Logistics,Actual,2023,Dec,-249654.16,12,12/1/2023,12/31/2023,Q4
+6001,  Salaries & Wages,Actual,2023,Dec,-959585.85,12,12/1/2023,12/31/2023,Q4
+6002,  Payroll Taxes,Actual,2023,Dec,-134342.02,12,12/1/2023,12/31/2023,Q4
+6003,  Rent,Actual,2023,Dec,-60608.87,12,12/1/2023,12/31/2023,Q4
+6004,  Marketing,Actual,2023,Dec,-396502.63,12,12/1/2023,12/31/2023,Q4
+6005,  Software & Subscriptions,Actual,2023,Dec,-30166.94,12,12/1/2023,12/31/2023,Q4
+6006,  Travel,Actual,2023,Dec,-123045.18,12,12/1/2023,12/31/2023,Q4
+7001,  Interest Income,Actual,2023,Dec,2441.32,12,12/1/2023,12/31/2023,Q4
+7002,  Interest Expense,Actual,2023,Dec,-4291,12,12/1/2023,12/31/2023,Q4
+4001,  Core,Budget,2023,Jan,2145256.15,1,1/1/2023,1/31/2023,Q1
+4002,  Pro,Budget,2023,Jan,1750528.42,1,1/1/2023,1/31/2023,Q1
+4010,  Services,Budget,2023,Jan,952568.26,1,1/1/2023,1/31/2023,Q1
+5001,  Materials,Budget,2023,Jan,-1276560.78,1,1/1/2023,1/31/2023,Q1
+5002,  Direct Labor,Budget,2023,Jan,-577753.5,1,1/1/2023,1/31/2023,Q1
+5003,  Freight & Logistics,Budget,2023,Jan,-206003.96,1,1/1/2023,1/31/2023,Q1
+6001,  Salaries & Wages,Budget,2023,Jan,-987907,1,1/1/2023,1/31/2023,Q1
+6002,  Payroll Taxes,Budget,2023,Jan,-138307.01,1,1/1/2023,1/31/2023,Q1
+6003,  Rent,Budget,2023,Jan,-60174,1,1/1/2023,1/31/2023,Q1
+6004,  Marketing,Budget,2023,Jan,-345961.86,1,1/1/2023,1/31/2023,Q1
+6005,  Software & Subscriptions,Budget,2023,Jan,-29915.69,1,1/1/2023,1/31/2023,Q1
+6006,  Travel,Budget,2023,Jan,-98393.93,1,1/1/2023,1/31/2023,Q1
+7001,  Interest Income,Budget,2023,Jan,3168.53,1,1/1/2023,1/31/2023,Q1
+7002,  Interest Expense,Budget,2023,Jan,-4102.49,1,1/1/2023,1/31/2023,Q1
+4001,  Core,Budget,2023,Feb,2197071.83,2,2/1/2023,2/28/2023,Q1
+4002,  Pro,Budget,2023,Feb,1687571.94,2,2/1/2023,2/28/2023,Q1
+4010,  Services,Budget,2023,Feb,1003139.42,2,2/1/2023,2/28/2023,Q1
+5001,  Materials,Budget,2023,Feb,-1269842.25,2,2/1/2023,2/28/2023,Q1
+5002,  Direct Labor,Budget,2023,Feb,-578851.56,2,2/1/2023,2/28/2023,Q1
+5003,  Freight & Logistics,Budget,2023,Feb,-207207.18,2,2/1/2023,2/28/2023,Q1
+6001,  Salaries & Wages,Budget,2023,Feb,-1006253.14,2,2/1/2023,2/28/2023,Q1
+6002,  Payroll Taxes,Budget,2023,Feb,-140875.46,2,2/1/2023,2/28/2023,Q1
+6003,  Rent,Budget,2023,Feb,-60200.36,2,2/1/2023,2/28/2023,Q1
+6004,  Marketing,Budget,2023,Feb,-353572.58,2,2/1/2023,2/28/2023,Q1
+6005,  Software & Subscriptions,Budget,2023,Feb,-29667,2,2/1/2023,2/28/2023,Q1
+6006,  Travel,Budget,2023,Feb,,2,2/1/2023,2/28/2023,Q1
+7001,  Interest Income,Budget,2023,Feb,3275.05,2,2/1/2023,2/28/2023,Q1
+7002,  Interest Expense,Budget,2023,Feb,-4295.15,2,2/1/2023,2/28/2023,Q1
+4001,  Core,Budget,2023,Mar,2518049,3,3/1/2023,3/31/2023,Q1
+4002,  Pro,Budget,2023,Mar,1846859,3,3/1/2023,3/31/2023,Q1
+4010,  Services,Budget,2023,Mar,1051015.08,3,3/1/2023,3/31/2023,Q1
+5001,  Materials,Budget,2023,Mar,,3,3/1/2023,3/31/2023,Q1
+5002,  Direct Labor,Budget,2023,Mar,-643097.16,3,3/1/2023,3/31/2023,Q1
+5003,  Freight & Logistics,Budget,2023,Mar,-230187.26,3,3/1/2023,3/31/2023,Q1
+6001,  Salaries & Wages,Budget,2023,Mar,-995103.24,3,3/1/2023,3/31/2023,Q1
+6002,  Payroll Taxes,Budget,2023,Mar,-139314.44,3,3/1/2023,3/31/2023,Q1
+6003,  Rent,Budget,2023,Mar,-60772.43,3,3/1/2023,3/31/2023,Q1
+6004,  Marketing,Budget,2023,Mar,-392627.11,3,3/1/2023,3/31/2023,Q1
+6005,  Software & Subscriptions,Budget,2023,Mar,-30034,3,3/1/2023,3/31/2023,Q1
+6006,  Travel,Budget,2023,Mar,-105831.6,3,3/1/2023,3/31/2023,Q1
+7001,  Interest Income,Budget,2023,Mar,3023.87,3,3/1/2023,3/31/2023,Q1
+7002,  Interest Expense,Budget,2023,Mar,-4122,3,3/1/2023,3/31/2023,Q1
+4001,  Core,Budget,2023,Apr,2433395.24,4,4/1/2023,4/30/2023,Q2
+4002,  Pro,Budget,2023,Apr,1810603.05,4,4/1/2023,4/30/2023,Q2
+4010,  Services,Budget,2023,Apr,1072903.85,4,4/1/2023,4/30/2023,Q2
+5001,  Materials,Budget,2023,Apr,-1390015.2,4,4/1/2023,4/30/2023,Q2
+5002,  Direct Labor,Budget,2023,Apr,-627389.59,4,4/1/2023,4/30/2023,Q2
+5003,  Freight & Logistics,Budget,2023,Apr,-224227.76,4,4/1/2023,4/30/2023,Q2
+6001,  Salaries & Wages,Budget,2023,Apr,-993724.46,4,4/1/2023,4/30/2023,Q2
+6002,  Payroll Taxes,Budget,2023,Apr,-139121.41,4,4/1/2023,4/30/2023,Q2
+6003,  Rent,Budget,2023,Apr,-60526.59,4,4/1/2023,4/30/2023,Q2
+6004,  Marketing,Budget,2023,Apr,,4,4/1/2023,4/30/2023,Q2
+6005,  Software & Subscriptions,Budget,2023,Apr,-29631.61,4,4/1/2023,4/30/2023,Q2
+6006,  Travel,Budget,2023,Apr,-105086.51,4,4/1/2023,4/30/2023,Q2
+7001,  Interest Income,Budget,2023,Apr,3192.49,4,4/1/2023,4/30/2023,Q2
+7002,  Interest Expense,Budget,2023,Apr,-4132.88,4,4/1/2023,4/30/2023,Q2
+4001,  Core,Budget,2023,May,2391092.2,5,5/1/2023,5/31/2023,Q2
+4002,  Pro,Budget,2023,May,1856017.15,5,5/1/2023,5/31/2023,Q2
+4010,  Services,Budget,2023,May,1135799.03,5,5/1/2023,5/31/2023,Q2
+5001,  Materials,Budget,2023,May,-1405138.91,5,5/1/2023,5/31/2023,Q2
+5002,  Direct Labor,Budget,2023,May,-628437.08,5,5/1/2023,5/31/2023,Q2
+5003,  Freight & Logistics,Budget,2023,May,-228525.26,5,5/1/2023,5/31/2023,Q2
+6001,  Salaries & Wages,Budget,2023,May,-993468.78,5,5/1/2023,5/31/2023,Q2
+6002,  Payroll Taxes,Budget,2023,May,,5,5/1/2023,5/31/2023,Q2
+6003,  Rent,Budget,2023,May,-60418.41,5,5/1/2023,5/31/2023,Q2
+6004,  Marketing,Budget,2023,May,-391790.46,5,5/1/2023,5/31/2023,Q2
+6005,  Software & Subscriptions,Budget,2023,May,-29821.68,5,5/1/2023,5/31/2023,Q2
+6006,  Travel,Budget,2023,May,-106314.61,5,5/1/2023,5/31/2023,Q2
+7001,  Interest Income,Budget,2023,May,3398.81,5,5/1/2023,5/31/2023,Q2
+7002,  Interest Expense,Budget,2023,May,-4204,5,5/1/2023,5/31/2023,Q2
+4001,  Core,Budget,2023,Jun,2581951.84,6,6/1/2023,6/30/2023,Q2
+4002,  Pro,Budget,2023,Jun,1834110.31,6,6/1/2023,6/30/2023,Q2
+4010,  Services,Budget,2023,Jun,1138221.92,6,6/1/2023,6/30/2023,Q2
+5001,  Materials,Budget,2023,Jun,-1447206.39,6,6/1/2023,6/30/2023,Q2
+5002,  Direct Labor,Budget,2023,Jun,-650496.16,6,6/1/2023,6/30/2023,Q2
+5003,  Freight & Logistics,Budget,2023,Jun,-234812.16,6,6/1/2023,6/30/2023,Q2
+6001,  Salaries & Wages,Budget,2023,Jun,-981709,6,6/1/2023,6/30/2023,Q2
+6002,  Payroll Taxes,Budget,2023,Jun,-137439,6,6/1/2023,6/30/2023,Q2
+6003,  Rent,Budget,2023,Jun,-60638.32,6,6/1/2023,6/30/2023,Q2
+6004,  Marketing,Budget,2023,Jun,-407522.71,6,6/1/2023,6/30/2023,Q2
+6005,  Software & Subscriptions,Budget,2023,Jun,-29395.44,6,6/1/2023,6/30/2023,Q2
+6006,  Travel,Budget,2023,Jun,-107419,6,6/1/2023,6/30/2023,Q2
+7001,  Interest Income,Budget,2023,Jun,3357.27,6,6/1/2023,6/30/2023,Q2
+7002,  Interest Expense,Budget,2023,Jun,-4266.66,6,6/1/2023,6/30/2023,Q2
+4001,  Core,Budget,2023,Jul,2433787.01,7,7/1/2023,7/31/2023,Q3
+4002,  Pro,Budget,2023,Jul,1853393,7,7/1/2023,7/31/2023,Q3
+4010,  Services,Budget,2023,Jul,1122854.63,7,7/1/2023,7/31/2023,Q3
+5001,  Materials,Budget,2023,Jul,-1410891.05,7,7/1/2023,7/31/2023,Q3
+5002,  Direct Labor,Budget,2023,Jul,-639839.54,7,7/1/2023,7/31/2023,Q3
+5003,  Freight & Logistics,Budget,2023,Jul,-229108,7,7/1/2023,7/31/2023,Q3
+6001,  Salaries & Wages,Budget,2023,Jul,-1004634.38,7,7/1/2023,7/31/2023,Q3
+6002,  Payroll Taxes,Budget,2023,Jul,-140648.8,7,7/1/2023,7/31/2023,Q3
+6003,  Rent,Budget,2023,Jul,-60176.51,7,7/1/2023,7/31/2023,Q3
+6004,  Marketing,Budget,2023,Jul,-374066.23,7,7/1/2023,7/31/2023,Q3
+6005,  Software & Subscriptions,Budget,2023,Jul,-29881.69,7,7/1/2023,7/31/2023,Q3
+6006,  Travel,Budget,2023,Jul,-105361,7,7/1/2023,7/31/2023,Q3
+7001,  Interest Income,Budget,2023,Jul,3083,7,7/1/2023,7/31/2023,Q3
+7002,  Interest Expense,Budget,2023,Jul,-4082.89,7,7/1/2023,7/31/2023,Q3
+4001,  Core,Budget,2023,Aug,2255737.2,8,8/1/2023,8/31/2023,Q3
+4002,  Pro,Budget,2023,Aug,1809765.5,8,8/1/2023,8/31/2023,Q3
+4010,  Services,Budget,2023,Aug,1132748.59,8,8/1/2023,8/31/2023,Q3
+5001,  Materials,Budget,2023,Aug,-1348583.11,8,8/1/2023,8/31/2023,Q3
+5002,  Direct Labor,Budget,2023,Aug,-607690.6,8,8/1/2023,8/31/2023,Q3
+5003,  Freight & Logistics,Budget,2023,Aug,,8,8/1/2023,8/31/2023,Q3
+6001,  Salaries & Wages,Budget,2023,Aug,-1009599.8,8,8/1/2023,8/31/2023,Q3
+6002,  Payroll Taxes,Budget,2023,Aug,-141343.98,8,8/1/2023,8/31/2023,Q3
+6003,  Rent,Budget,2023,Aug,-60759.58,8,8/1/2023,8/31/2023,Q3
+6004,  Marketing,Budget,2023,Aug,-388590.78,8,8/1/2023,8/31/2023,Q3
+6005,  Software & Subscriptions,Budget,2023,Aug,-29803.51,8,8/1/2023,8/31/2023,Q3
+6006,  Travel,Budget,2023,Aug,-100436.1,8,8/1/2023,8/31/2023,Q3
+7001,  Interest Income,Budget,2023,Aug,2908.51,8,8/1/2023,8/31/2023,Q3
+7002,  Interest Expense,Budget,2023,Aug,-4215.07,8,8/1/2023,8/31/2023,Q3
+4001,  Core,Budget,2023,Sep,2188430,9,9/1/2023,9/30/2023,Q3
+4002,  Pro,Budget,2023,Sep,1821064.95,9,9/1/2023,9/30/2023,Q3
+4010,  Services,Budget,2023,Sep,1047246,9,9/1/2023,9/30/2023,Q3
+5001,  Materials,Budget,2023,Sep,-1320526,9,9/1/2023,9/30/2023,Q3
+5002,  Direct Labor,Budget,2023,Sep,-596582.41,9,9/1/2023,9/30/2023,Q3
+5003,  Freight & Logistics,Budget,2023,Sep,,9,9/1/2023,9/30/2023,Q3
+6001,  Salaries & Wages,Budget,2023,Sep,-1004691.6,9,9/1/2023,9/30/2023,Q3
+6002,  Payroll Taxes,Budget,2023,Sep,-140657,9,9/1/2023,9/30/2023,Q3
+6003,  Rent,Budget,2023,Sep,-60825,9,9/1/2023,9/30/2023,Q3
+6004,  Marketing,Budget,2023,Sep,-372496.62,9,9/1/2023,9/30/2023,Q3
+6005,  Software & Subscriptions,Budget,2023,Sep,,9,9/1/2023,9/30/2023,Q3
+6006,  Travel,Budget,2023,Sep,-104104.98,9,9/1/2023,9/30/2023,Q3
+7001,  Interest Income,Budget,2023,Sep,2760.68,9,9/1/2023,9/30/2023,Q3
+7002,  Interest Expense,Budget,2023,Sep,-4036.92,9,9/1/2023,9/30/2023,Q3
+4001,  Core,Budget,2023,Oct,2492832.28,10,10/1/2023,10/31/2023,Q4
+4002,  Pro,Budget,2023,Oct,1830596.43,10,10/1/2023,10/31/2023,Q4
+4010,  Services,Budget,2023,Oct,1104879.73,10,10/1/2023,10/31/2023,Q4
+5001,  Materials,Budget,2023,Oct,-1416812.67,10,10/1/2023,10/31/2023,Q4
+5002,  Direct Labor,Budget,2023,Oct,,10,10/1/2023,10/31/2023,Q4
+5003,  Freight & Logistics,Budget,2023,Oct,-228589.87,10,10/1/2023,10/31/2023,Q4
+6001,  Salaries & Wages,Budget,2023,Oct,-1003794,10,10/1/2023,10/31/2023,Q4
+6002,  Payroll Taxes,Budget,2023,Oct,-140531.09,10,10/1/2023,10/31/2023,Q4
+6003,  Rent,Budget,2023,Oct,-60730.12,10,10/1/2023,10/31/2023,Q4
+6004,  Marketing,Budget,2023,Oct,-401431.25,10,10/1/2023,10/31/2023,Q4
+6005,  Software & Subscriptions,Budget,2023,Oct,-29892.39,10,10/1/2023,10/31/2023,Q4
+6006,  Travel,Budget,2023,Oct,,10,10/1/2023,10/31/2023,Q4
+7001,  Interest Income,Budget,2023,Oct,2925.53,10,10/1/2023,10/31/2023,Q4
+7002,  Interest Expense,Budget,2023,Oct,-3988.12,10,10/1/2023,10/31/2023,Q4
+4001,  Core,Budget,2023,Nov,2314655.17,11,11/1/2023,11/30/2023,Q4
+4002,  Pro,Budget,2023,Nov,2058184.75,11,11/1/2023,11/30/2023,Q4
+4010,  Services,Budget,2023,Nov,1091324.44,11,11/1/2023,11/30/2023,Q4
+5001,  Materials,Budget,2023,Nov,-1433839.05,11,11/1/2023,11/30/2023,Q4
+5002,  Direct Labor,Budget,2023,Nov,-650405,11,11/1/2023,11/30/2023,Q4
+5003,  Freight & Logistics,Budget,2023,Nov,-232761,11,11/1/2023,11/30/2023,Q4
+6001,  Salaries & Wages,Budget,2023,Nov,-981789.27,11,11/1/2023,11/30/2023,Q4
+6002,  Payroll Taxes,Budget,2023,Nov,-137450.51,11,11/1/2023,11/30/2023,Q4
+6003,  Rent,Budget,2023,Nov,-60402,11,11/1/2023,11/30/2023,Q4
+6004,  Marketing,Budget,2023,Nov,-393182.09,11,11/1/2023,11/30/2023,Q4
+6005,  Software & Subscriptions,Budget,2023,Nov,-29642,11,11/1/2023,11/30/2023,Q4
+6006,  Travel,Budget,2023,Nov,-113111,11,11/1/2023,11/30/2023,Q4
+7001,  Interest Income,Budget,2023,Nov,3219.79,11,11/1/2023,11/30/2023,Q4
+7002,  Interest Expense,Budget,2023,Nov,-3644,11,11/1/2023,11/30/2023,Q4
+4001,  Core,Budget,2023,Dec,2567833,12,12/1/2023,12/31/2023,Q4
+4002,  Pro,Budget,2023,Dec,1952367.54,12,12/1/2023,12/31/2023,Q4
+4010,  Services,Budget,2023,Dec,1129655.73,12,12/1/2023,12/31/2023,Q4
+5001,  Materials,Budget,2023,Dec,-1477762.32,12,12/1/2023,12/31/2023,Q4
+5002,  Direct Labor,Budget,2023,Dec,-667117.1,12,12/1/2023,12/31/2023,Q4
+5003,  Freight & Logistics,Budget,2023,Dec,-238152,12,12/1/2023,12/31/2023,Q4
+6001,  Salaries & Wages,Budget,2023,Dec,-977346.49,12,12/1/2023,12/31/2023,Q4
+6002,  Payroll Taxes,Budget,2023,Dec,-136828.5,12,12/1/2023,12/31/2023,Q4
+6003,  Rent,Budget,2023,Dec,-60629.29,12,12/1/2023,12/31/2023,Q4
+6004,  Marketing,Budget,2023,Dec,-397260,12,12/1/2023,12/31/2023,Q4
+6005,  Software & Subscriptions,Budget,2023,Dec,-29393.39,12,12/1/2023,12/31/2023,Q4
+6006,  Travel,Budget,2023,Dec,-112547.61,12,12/1/2023,12/31/2023,Q4
+7001,  Interest Income,Budget,2023,Dec,3045.12,12,12/1/2023,12/31/2023,Q4
+7002,  Interest Expense,Budget,2023,Dec,,12,12/1/2023,12/31/2023,Q4
+4001,  Core,Actual,2024,Jan,2252014.86,1,1/1/2024,1/31/2024,Q1
+4002,  Pro,Actual,2024,Jan,1717571.55,1,1/1/2024,1/31/2024,Q1
+4010,  Services,Actual,2024,Jan,1040450.71,1,1/1/2024,1/31/2024,Q1
+5001,  Materials,Actual,2024,Jan,-1309482.41,1,1/1/2024,1/31/2024,Q1
+5002,  Direct Labor,Actual,2024,Jan,-590964.08,1,1/1/2024,1/31/2024,Q1
+5003,  Freight & Logistics,Actual,2024,Jan,-218573.47,1,1/1/2024,1/31/2024,Q1
+6001,  Salaries & Wages,Actual,2024,Jan,-1027869.85,1,1/1/2024,1/31/2024,Q1
+6002,  Payroll Taxes,Actual,2024,Jan,-143902,1,1/1/2024,1/31/2024,Q1
+6003,  Rent,Actual,2024,Jan,-62161,1,1/1/2024,1/31/2024,Q1
+6004,  Marketing,Actual,2024,Jan,-306906.97,1,1/1/2024,1/31/2024,Q1
+6005,  Software & Subscriptions,Actual,2024,Jan,-30567.39,1,1/1/2024,1/31/2024,Q1
+6006,  Travel,Actual,2024,Jan,-98903.58,1,1/1/2024,1/31/2024,Q1
+7001,  Interest Income,Actual,2024,Jan,2528.78,1,1/1/2024,1/31/2024,Q1
+7002,  Interest Expense,Actual,2024,Jan,-4674.79,1,1/1/2024,1/31/2024,Q1
+4001,  Core,Actual,2024,Feb,2465064.42,2,2/1/2024,2/29/2024,Q1
+4002,  Pro,Actual,2024,Feb,1711984.36,2,2/1/2024,2/29/2024,Q1
+4010,  Services,Actual,2024,Feb,,2,2/1/2024,2/29/2024,Q1
+5001,  Materials,Actual,2024,Feb,-1369665.85,2,2/1/2024,2/29/2024,Q1
+5002,  Direct Labor,Actual,2024,Feb,-614394.43,2,2/1/2024,2/29/2024,Q1
+5003,  Freight & Logistics,Actual,2024,Feb,-222742,2,2/1/2024,2/29/2024,Q1
+6001,  Salaries & Wages,Actual,2024,Feb,-1010510.22,2,2/1/2024,2/29/2024,Q1
+6002,  Payroll Taxes,Actual,2024,Feb,-141471.43,2,2/1/2024,2/29/2024,Q1
+6003,  Rent,Actual,2024,Feb,-61648.31,2,2/1/2024,2/29/2024,Q1
+6004,  Marketing,Actual,2024,Feb,-348404.06,2,2/1/2024,2/29/2024,Q1
+6005,  Software & Subscriptions,Actual,2024,Feb,-30199.99,2,2/1/2024,2/29/2024,Q1
+6006,  Travel,Actual,2024,Feb,-107834.79,2,2/1/2024,2/29/2024,Q1
+7001,  Interest Income,Actual,2024,Feb,2901,2,2/1/2024,2/29/2024,Q1
+7002,  Interest Expense,Actual,2024,Feb,-4658.08,2,2/1/2024,2/29/2024,Q1
+4001,  Core,Actual,2024,Mar,2520624.72,3,3/1/2024,3/31/2024,Q1
+4002,  Pro,Actual,2024,Mar,1977085.25,3,3/1/2024,3/31/2024,Q1
+4010,  Services,Actual,2024,Mar,,3,3/1/2024,3/31/2024,Q1
+5001,  Materials,Actual,2024,Mar,-1488842,3,3/1/2024,3/31/2024,Q1
+5002,  Direct Labor,Actual,2024,Mar,-670448.46,3,3/1/2024,3/31/2024,Q1
+5003,  Freight & Logistics,Actual,2024,Mar,-240679.62,3,3/1/2024,3/31/2024,Q1
+6001,  Salaries & Wages,Actual,2024,Mar,-1012431.86,3,3/1/2024,3/31/2024,Q1
+6002,  Payroll Taxes,Actual,2024,Mar,-141740.46,3,3/1/2024,3/31/2024,Q1
+6003,  Rent,Actual,2024,Mar,-61610.31,3,3/1/2024,3/31/2024,Q1
+6004,  Marketing,Actual,2024,Mar,-367652.2,3,3/1/2024,3/31/2024,Q1
+6005,  Software & Subscriptions,Actual,2024,Mar,-30116.34,3,3/1/2024,3/31/2024,Q1
+6006,  Travel,Actual,2024,Mar,-118399.46,3,3/1/2024,3/31/2024,Q1
+7001,  Interest Income,Actual,2024,Mar,2647.03,3,3/1/2024,3/31/2024,Q1
+7002,  Interest Expense,Actual,2024,Mar,-4319,3,3/1/2024,3/31/2024,Q1
+4001,  Core,Actual,2024,Apr,2488220.07,4,4/1/2024,4/30/2024,Q2
+4002,  Pro,Actual,2024,Apr,1923628.27,4,4/1/2024,4/30/2024,Q2
+4010,  Services,Actual,2024,Apr,1124384.22,4,4/1/2024,4/30/2024,Q2
+5001,  Materials,Actual,2024,Apr,-1424013,4,4/1/2024,4/30/2024,Q2
+5002,  Direct Labor,Actual,2024,Apr,-647505.63,4,4/1/2024,4/30/2024,Q2
+5003,  Freight & Logistics,Actual,2024,Apr,-228335.37,4,4/1/2024,4/30/2024,Q2
+6001,  Salaries & Wages,Actual,2024,Apr,-1017156.25,4,4/1/2024,4/30/2024,Q2
+6002,  Payroll Taxes,Actual,2024,Apr,-142402,4,4/1/2024,4/30/2024,Q2
+6003,  Rent,Actual,2024,Apr,-62166.94,4,4/1/2024,4/30/2024,Q2
+6004,  Marketing,Actual,2024,Apr,-349680,4,4/1/2024,4/30/2024,Q2
+6005,  Software & Subscriptions,Actual,2024,Apr,-30800.12,4,4/1/2024,4/30/2024,Q2
+6006,  Travel,Actual,2024,Apr,-103755.98,4,4/1/2024,4/30/2024,Q2
+7001,  Interest Income,Actual,2024,Apr,2907.85,4,4/1/2024,4/30/2024,Q2
+7002,  Interest Expense,Actual,2024,Apr,-4832,4,4/1/2024,4/30/2024,Q2
+4001,  Core,Actual,2024,May,2475725.38,5,5/1/2024,5/31/2024,Q2
+4002,  Pro,Actual,2024,May,1879536.08,5,5/1/2024,5/31/2024,Q2
+4010,  Services,Actual,2024,May,1199206.96,5,5/1/2024,5/31/2024,Q2
+5001,  Materials,Actual,2024,May,-1439355.38,5,5/1/2024,5/31/2024,Q2
+5002,  Direct Labor,Actual,2024,May,-657613.29,5,5/1/2024,5/31/2024,Q2
+5003,  Freight & Logistics,Actual,2024,May,-251498.53,5,5/1/2024,5/31/2024,Q2
+6001,  Salaries & Wages,Actual,2024,May,-1015440.39,5,5/1/2024,5/31/2024,Q2
+6002,  Payroll Taxes,Actual,2024,May,-142162,5,5/1/2024,5/31/2024,Q2
+6003,  Rent,Actual,2024,May,-61452.68,5,5/1/2024,5/31/2024,Q2
+6004,  Marketing,Actual,2024,May,-363921.76,5,5/1/2024,5/31/2024,Q2
+6005,  Software & Subscriptions,Actual,2024,May,-29941.32,5,5/1/2024,5/31/2024,Q2
+6006,  Travel,Actual,2024,May,-104524.44,5,5/1/2024,5/31/2024,Q2
+7001,  Interest Income,Actual,2024,May,2957.19,5,5/1/2024,5/31/2024,Q2
+7002,  Interest Expense,Actual,2024,May,-4618.43,5,5/1/2024,5/31/2024,Q2
+4001,  Core,Actual,2024,Jun,2537689.27,6,6/1/2024,6/30/2024,Q2
+4002,  Pro,Actual,2024,Jun,2050895,6,6/1/2024,6/30/2024,Q2
+4010,  Services,Actual,2024,Jun,1223544.02,6,6/1/2024,6/30/2024,Q2
+5001,  Materials,Actual,2024,Jun,,6,6/1/2024,6/30/2024,Q2
+5002,  Direct Labor,Actual,2024,Jun,-683681.08,6,6/1/2024,6/30/2024,Q2
+5003,  Freight & Logistics,Actual,2024,Jun,-254315.16,6,6/1/2024,6/30/2024,Q2
+6001,  Salaries & Wages,Actual,2024,Jun,-1026888,6,6/1/2024,6/30/2024,Q2
+6002,  Payroll Taxes,Actual,2024,Jun,-143764.36,6,6/1/2024,6/30/2024,Q2
+6003,  Rent,Actual,2024,Jun,-61476,6,6/1/2024,6/30/2024,Q2
+6004,  Marketing,Actual,2024,Jun,-342483.16,6,6/1/2024,6/30/2024,Q2
+6005,  Software & Subscriptions,Actual,2024,Jun,-30827.33,6,6/1/2024,6/30/2024,Q2
+6006,  Travel,Actual,2024,Jun,-101627.81,6,6/1/2024,6/30/2024,Q2
+7001,  Interest Income,Actual,2024,Jun,,6,6/1/2024,6/30/2024,Q2
+7002,  Interest Expense,Actual,2024,Jun,-3607.39,6,6/1/2024,6/30/2024,Q2
+4001,  Core,Actual,2024,Jul,2761027.34,7,7/1/2024,7/31/2024,Q3
+4002,  Pro,Actual,2024,Jul,2067787.09,7,7/1/2024,7/31/2024,Q3
+4010,  Services,Actual,2024,Jul,1198037.87,7,7/1/2024,7/31/2024,Q3
+5001,  Materials,Actual,2024,Jul,-1563639.67,7,7/1/2024,7/31/2024,Q3
+5002,  Direct Labor,Actual,2024,Jul,-718150.8,7,7/1/2024,7/31/2024,Q3
+5003,  Freight & Logistics,Actual,2024,Jul,-263833.36,7,7/1/2024,7/31/2024,Q3
+6001,  Salaries & Wages,Actual,2024,Jul,,7,7/1/2024,7/31/2024,Q3
+6002,  Payroll Taxes,Actual,2024,Jul,-140952.1,7,7/1/2024,7/31/2024,Q3
+6003,  Rent,Actual,2024,Jul,-62289.14,7,7/1/2024,7/31/2024,Q3
+6004,  Marketing,Actual,2024,Jul,-391302.91,7,7/1/2024,7/31/2024,Q3
+6005,  Software & Subscriptions,Actual,2024,Jul,-30095.23,7,7/1/2024,7/31/2024,Q3
+6006,  Travel,Actual,2024,Jul,-118532.31,7,7/1/2024,7/31/2024,Q3
+7001,  Interest Income,Actual,2024,Jul,2833.59,7,7/1/2024,7/31/2024,Q3
+7002,  Interest Expense,Actual,2024,Jul,-4975.97,7,7/1/2024,7/31/2024,Q3
+4001,  Core,Actual,2024,Aug,2530810.05,8,8/1/2024,8/31/2024,Q3
+4002,  Pro,Actual,2024,Aug,1952846,8,8/1/2024,8/31/2024,Q3
+4010,  Services,Actual,2024,Aug,1187458.08,8,8/1/2024,8/31/2024,Q3
+5001,  Materials,Actual,2024,Aug,-1466068.39,8,8/1/2024,8/31/2024,Q3
+5002,  Direct Labor,Actual,2024,Aug,-666534,8,8/1/2024,8/31/2024,Q3
+5003,  Freight & Logistics,Actual,2024,Aug,-234339.32,8,8/1/2024,8/31/2024,Q3
+6001,  Salaries & Wages,Actual,2024,Aug,-999666.75,8,8/1/2024,8/31/2024,Q3
+6002,  Payroll Taxes,Actual,2024,Aug,-139953.36,8,8/1/2024,8/31/2024,Q3
+6003,  Rent,Actual,2024,Aug,-61958.1,8,8/1/2024,8/31/2024,Q3
+6004,  Marketing,Actual,2024,Aug,-383136.21,8,8/1/2024,8/31/2024,Q3
+6005,  Software & Subscriptions,Actual,2024,Aug,-30235.36,8,8/1/2024,8/31/2024,Q3
+6006,  Travel,Actual,2024,Aug,-112926.12,8,8/1/2024,8/31/2024,Q3
+7001,  Interest Income,Actual,2024,Aug,2781.21,8,8/1/2024,8/31/2024,Q3
+7002,  Interest Expense,Actual,2024,Aug,-4302.57,8,8/1/2024,8/31/2024,Q3
+4001,  Core,Actual,2024,Sep,2489476.1,9,9/1/2024,9/30/2024,Q3
+4002,  Pro,Actual,2024,Sep,1857163.01,9,9/1/2024,9/30/2024,Q3
+4010,  Services,Actual,2024,Sep,1178673.05,9,9/1/2024,9/30/2024,Q3
+5001,  Materials,Actual,2024,Sep,-1445037.25,9,9/1/2024,9/30/2024,Q3
+5002,  Direct Labor,Actual,2024,Sep,-647117.41,9,9/1/2024,9/30/2024,Q3
+5003,  Freight & Logistics,Actual,2024,Sep,-234208,9,9/1/2024,9/30/2024,Q3
+6001,  Salaries & Wages,Actual,2024,Sep,-1016603.5,9,9/1/2024,9/30/2024,Q3
+6002,  Payroll Taxes,Actual,2024,Sep,-142324.49,9,9/1/2024,9/30/2024,Q3
+6003,  Rent,Actual,2024,Sep,-61965.84,9,9/1/2024,9/30/2024,Q3
+6004,  Marketing,Actual,2024,Sep,-358588,9,9/1/2024,9/30/2024,Q3
+6005,  Software & Subscriptions,Actual,2024,Sep,-30235.56,9,9/1/2024,9/30/2024,Q3
+6006,  Travel,Actual,2024,Sep,-111423.56,9,9/1/2024,9/30/2024,Q3
+7001,  Interest Income,Actual,2024,Sep,2670.09,9,9/1/2024,9/30/2024,Q3
+7002,  Interest Expense,Actual,2024,Sep,-4968.59,9,9/1/2024,9/30/2024,Q3
+4001,  Core,Actual,2024,Oct,2607032.17,10,10/1/2024,10/31/2024,Q4
+4002,  Pro,Actual,2024,Oct,1981819.2,10,10/1/2024,10/31/2024,Q4
+4010,  Services,Actual,2024,Oct,1161815,10,10/1/2024,10/31/2024,Q4
+5001,  Materials,Actual,2024,Oct,-1499800.79,10,10/1/2024,10/31/2024,Q4
+5002,  Direct Labor,Actual,2024,Oct,-684902.11,10,10/1/2024,10/31/2024,Q4
+5003,  Freight & Logistics,Actual,2024,Oct,-237592.67,10,10/1/2024,10/31/2024,Q4
+6001,  Salaries & Wages,Actual,2024,Oct,,10,10/1/2024,10/31/2024,Q4
+6002,  Payroll Taxes,Actual,2024,Oct,-142014.24,10,10/1/2024,10/31/2024,Q4
+6003,  Rent,Actual,2024,Oct,-62432.76,10,10/1/2024,10/31/2024,Q4
+6004,  Marketing,Actual,2024,Oct,-370659.33,10,10/1/2024,10/31/2024,Q4
+6005,  Software & Subscriptions,Actual,2024,Oct,-30547.49,10,10/1/2024,10/31/2024,Q4
+6006,  Travel,Actual,2024,Oct,-121854.98,10,10/1/2024,10/31/2024,Q4
+7001,  Interest Income,Actual,2024,Oct,2319.38,10,10/1/2024,10/31/2024,Q4
+7002,  Interest Expense,Actual,2024,Oct,-4185.8,10,10/1/2024,10/31/2024,Q4
+4001,  Core,Actual,2024,Nov,2677840.78,11,11/1/2024,11/30/2024,Q4
+4002,  Pro,Actual,2024,Nov,2093514,11,11/1/2024,11/30/2024,Q4
+4010,  Services,Actual,2024,Nov,1168438.64,11,11/1/2024,11/30/2024,Q4
+5001,  Materials,Actual,2024,Nov,-1536351.28,11,11/1/2024,11/30/2024,Q4
+5002,  Direct Labor,Actual,2024,Nov,-703792.67,11,11/1/2024,11/30/2024,Q4
+5003,  Freight & Logistics,Actual,2024,Nov,-257226.82,11,11/1/2024,11/30/2024,Q4
+6001,  Salaries & Wages,Actual,2024,Nov,-1014686.18,11,11/1/2024,11/30/2024,Q4
+6002,  Payroll Taxes,Actual,2024,Nov,-142056.05,11,11/1/2024,11/30/2024,Q4
+6003,  Rent,Actual,2024,Nov,-61767.4,11,11/1/2024,11/30/2024,Q4
+6004,  Marketing,Actual,2024,Nov,-387219.79,11,11/1/2024,11/30/2024,Q4
+6005,  Software & Subscriptions,Actual,2024,Nov,-31072.83,11,11/1/2024,11/30/2024,Q4
+6006,  Travel,Actual,2024,Nov,-118640.51,11,11/1/2024,11/30/2024,Q4
+7001,  Interest Income,Actual,2024,Nov,2277.01,11,11/1/2024,11/30/2024,Q4
+7002,  Interest Expense,Actual,2024,Nov,-4619.32,11,11/1/2024,11/30/2024,Q4
+4001,  Core,Actual,2024,Dec,2789662,12,12/1/2024,12/31/2024,Q4
+4002,  Pro,Actual,2024,Dec,2216947.33,12,12/1/2024,12/31/2024,Q4
+4010,  Services,Actual,2024,Dec,1261743.31,12,12/1/2024,12/31/2024,Q4
+5001,  Materials,Actual,2024,Dec,-1600628.32,12,12/1/2024,12/31/2024,Q4
+5002,  Direct Labor,Actual,2024,Dec,-747047.04,12,12/1/2024,12/31/2024,Q4
+5003,  Freight & Logistics,Actual,2024,Dec,-265367.33,12,12/1/2024,12/31/2024,Q4
+6001,  Salaries & Wages,Actual,2024,Dec,,12,12/1/2024,12/31/2024,Q4
+6002,  Payroll Taxes,Actual,2024,Dec,-142479.14,12,12/1/2024,12/31/2024,Q4
+6003,  Rent,Actual,2024,Dec,-62191.51,12,12/1/2024,12/31/2024,Q4
+6004,  Marketing,Actual,2024,Dec,-391083.34,12,12/1/2024,12/31/2024,Q4
+6005,  Software & Subscriptions,Actual,2024,Dec,-30628.64,12,12/1/2024,12/31/2024,Q4
+6006,  Travel,Actual,2024,Dec,-128530.15,12,12/1/2024,12/31/2024,Q4
+7001,  Interest Income,Actual,2024,Dec,2588.98,12,12/1/2024,12/31/2024,Q4
+7002,  Interest Expense,Actual,2024,Dec,-4534.29,12,12/1/2024,12/31/2024,Q4
+4001,  Core,Budget,2024,Jan,2228656.43,1,1/1/2024,1/31/2024,Q1
+4002,  Pro,Budget,2024,Jan,1774746,1,1/1/2024,1/31/2024,Q1
+4010,  Services,Budget,2024,Jan,1025681,1,1/1/2024,1/31/2024,Q1
+5001,  Materials,Budget,2024,Jan,-1315566.36,1,1/1/2024,1/31/2024,Q1
+5002,  Direct Labor,Budget,2024,Jan,-592224.98,1,1/1/2024,1/31/2024,Q1
+5003,  Freight & Logistics,Budget,2024,Jan,-209746.08,1,1/1/2024,1/31/2024,Q1
+6001,  Salaries & Wages,Budget,2024,Jan,-1050878,1,1/1/2024,1/31/2024,Q1
+6002,  Payroll Taxes,Budget,2024,Jan,,1,1/1/2024,1/31/2024,Q1
+6003,  Rent,Budget,2024,Jan,-61931.53,1,1/1/2024,1/31/2024,Q1
+6004,  Marketing,Budget,2024,Jan,-363932.73,1,1/1/2024,1/31/2024,Q1
+6005,  Software & Subscriptions,Budget,2024,Jan,-30676.32,1,1/1/2024,1/31/2024,Q1
+6006,  Travel,Budget,2024,Jan,-103782.94,1,1/1/2024,1/31/2024,Q1
+7001,  Interest Income,Budget,2024,Jan,3184.55,1,1/1/2024,1/31/2024,Q1
+7002,  Interest Expense,Budget,2024,Jan,-4284.45,1,1/1/2024,1/31/2024,Q1
+4001,  Core,Budget,2024,Feb,2474169,2,2/1/2024,2/29/2024,Q1
+4002,  Pro,Budget,2024,Feb,1773440.61,2,2/1/2024,2/29/2024,Q1
+4010,  Services,Budget,2024,Feb,1094147,2,2/1/2024,2/29/2024,Q1
+5001,  Materials,Budget,2024,Feb,-1386918.6,2,2/1/2024,2/29/2024,Q1
+5002,  Direct Labor,Budget,2024,Feb,-625916.18,2,2/1/2024,2/29/2024,Q1
+5003,  Freight & Logistics,Budget,2024,Feb,-225296.84,2,2/1/2024,2/29/2024,Q1
+6001,  Salaries & Wages,Budget,2024,Feb,-1023238.83,2,2/1/2024,2/29/2024,Q1
+6002,  Payroll Taxes,Budget,2024,Feb,-143253.44,2,2/1/2024,2/29/2024,Q1
+6003,  Rent,Budget,2024,Feb,-61961.56,2,2/1/2024,2/29/2024,Q1
+6004,  Marketing,Budget,2024,Feb,-376236.85,2,2/1/2024,2/29/2024,Q1
+6005,  Software & Subscriptions,Budget,2024,Feb,-30606.35,2,2/1/2024,2/29/2024,Q1
+6006,  Travel,Budget,2024,Feb,-100831,2,2/1/2024,2/29/2024,Q1
+7001,  Interest Income,Budget,2024,Feb,3111.23,2,2/1/2024,2/29/2024,Q1
+7002,  Interest Expense,Budget,2024,Feb,-4125.34,2,2/1/2024,2/29/2024,Q1
+4001,  Core,Budget,2024,Mar,2575776.47,3,3/1/2024,3/31/2024,Q1
+4002,  Pro,Budget,2024,Mar,2025775.55,3,3/1/2024,3/31/2024,Q1
+4010,  Services,Budget,2024,Mar,1177790.37,3,3/1/2024,3/31/2024,Q1
+5001,  Materials,Budget,2024,Mar,-1504360.15,3,3/1/2024,3/31/2024,Q1
+5002,  Direct Labor,Budget,2024,Mar,-683796.66,3,3/1/2024,3/31/2024,Q1
+5003,  Freight & Logistics,Budget,2024,Mar,-243910.5,3,3/1/2024,3/31/2024,Q1
+6001,  Salaries & Wages,Budget,2024,Mar,-1037539.37,3,3/1/2024,3/31/2024,Q1
+6002,  Payroll Taxes,Budget,2024,Mar,-145255.52,3,3/1/2024,3/31/2024,Q1
+6003,  Rent,Budget,2024,Mar,-61874.39,3,3/1/2024,3/31/2024,Q1
+6004,  Marketing,Budget,2024,Mar,-415849.12,3,3/1/2024,3/31/2024,Q1
+6005,  Software & Subscriptions,Budget,2024,Mar,-30156,3,3/1/2024,3/31/2024,Q1
+6006,  Travel,Budget,2024,Mar,-117459,3,3/1/2024,3/31/2024,Q1
+7001,  Interest Income,Budget,2024,Mar,3234.7,3,3/1/2024,3/31/2024,Q1
+7002,  Interest Expense,Budget,2024,Mar,-3909.08,3,3/1/2024,3/31/2024,Q1
+4001,  Core,Budget,2024,Apr,2532829.68,4,4/1/2024,4/30/2024,Q2
+4002,  Pro,Budget,2024,Apr,1925849.53,4,4/1/2024,4/30/2024,Q2
+4010,  Services,Budget,2024,Apr,1157020.48,4,4/1/2024,4/30/2024,Q2
+5001,  Materials,Budget,2024,Apr,-1467127,4,4/1/2024,4/30/2024,Q2
+5002,  Direct Labor,Budget,2024,Apr,-662135.01,4,4/1/2024,4/30/2024,Q2
+5003,  Freight & Logistics,Budget,2024,Apr,-235551.57,4,4/1/2024,4/30/2024,Q2
+6001,  Salaries & Wages,Budget,2024,Apr,-1037702.17,4,4/1/2024,4/30/2024,Q2
+6002,  Payroll Taxes,Budget,2024,Apr,-145278.3,4,4/1/2024,4/30/2024,Q2
+6003,  Rent,Budget,2024,Apr,-62225.95,4,4/1/2024,4/30/2024,Q2
+6004,  Marketing,Budget,2024,Apr,,4,4/1/2024,4/30/2024,Q2
+6005,  Software & Subscriptions,Budget,2024,Apr,-30325,4,4/1/2024,4/30/2024,Q2
+6006,  Travel,Budget,2024,Apr,-115133.06,4,4/1/2024,4/30/2024,Q2
+7001,  Interest Income,Budget,2024,Apr,3265.8,4,4/1/2024,4/30/2024,Q2
+7002,  Interest Expense,Budget,2024,Apr,-3940.01,4,4/1/2024,4/30/2024,Q2
+4001,  Core,Budget,2024,May,2542753,5,5/1/2024,5/31/2024,Q2
+4002,  Pro,Budget,2024,May,1918729.04,5,5/1/2024,5/31/2024,Q2
+4010,  Services,Budget,2024,May,1242202.53,5,5/1/2024,5/31/2024,Q2
+5001,  Materials,Budget,2024,May,-1483066,5,5/1/2024,5/31/2024,Q2
+5002,  Direct Labor,Budget,2024,May,-670705.84,5,5/1/2024,5/31/2024,Q2
+5003,  Freight & Logistics,Budget,2024,May,-239445.83,5,5/1/2024,5/31/2024,Q2
+6001,  Salaries & Wages,Budget,2024,May,-1044448.39,5,5/1/2024,5/31/2024,Q2
+6002,  Payroll Taxes,Budget,2024,May,-146223,5,5/1/2024,5/31/2024,Q2
+6003,  Rent,Budget,2024,May,-61992.86,5,5/1/2024,5/31/2024,Q2
+6004,  Marketing,Budget,2024,May,-402144,5,5/1/2024,5/31/2024,Q2
+6005,  Software & Subscriptions,Budget,2024,May,-30423.96,5,5/1/2024,5/31/2024,Q2
+6006,  Travel,Budget,2024,May,-118009.26,5,5/1/2024,5/31/2024,Q2
+7001,  Interest Income,Budget,2024,May,3181.24,5,5/1/2024,5/31/2024,Q2
+7002,  Interest Expense,Budget,2024,May,-4170,5,5/1/2024,5/31/2024,Q2
+4001,  Core,Budget,2024,Jun,2573111.37,6,6/1/2024,6/30/2024,Q2
+4002,  Pro,Budget,2024,Jun,2053128.56,6,6/1/2024,6/30/2024,Q2
+4010,  Services,Budget,2024,Jun,1232373.97,6,6/1/2024,6/30/2024,Q2
+5001,  Materials,Budget,2024,Jun,,6,6/1/2024,6/30/2024,Q2
+5002,  Direct Labor,Budget,2024,Jun,-688095,6,6/1/2024,6/30/2024,Q2
+5003,  Freight & Logistics,Budget,2024,Jun,-245276.58,6,6/1/2024,6/30/2024,Q2
+6001,  Salaries & Wages,Budget,2024,Jun,-1052465.28,6,6/1/2024,6/30/2024,Q2
+6002,  Payroll Taxes,Budget,2024,Jun,-147345.13,6,6/1/2024,6/30/2024,Q2
+6003,  Rent,Budget,2024,Jun,-62103,6,6/1/2024,6/30/2024,Q2
+6004,  Marketing,Budget,2024,Jun,-417577,6,6/1/2024,6/30/2024,Q2
+6005,  Software & Subscriptions,Budget,2024,Jun,-30251.7,6,6/1/2024,6/30/2024,Q2
+6006,  Travel,Budget,2024,Jun,-119648.37,6,6/1/2024,6/30/2024,Q2
+7001,  Interest Income,Budget,2024,Jun,3188.94,6,6/1/2024,6/30/2024,Q2
+7002,  Interest Expense,Budget,2024,Jun,-3836,6,6/1/2024,6/30/2024,Q2
+4001,  Core,Budget,2024,Jul,2818084.62,7,7/1/2024,7/31/2024,Q3
+4002,  Pro,Budget,2024,Jul,2111782.09,7,7/1/2024,7/31/2024,Q3
+4010,  Services,Budget,2024,Jul,1221698.85,7,7/1/2024,7/31/2024,Q3
+5001,  Materials,Budget,2024,Jul,-1609984.39,7,7/1/2024,7/31/2024,Q3
+5002,  Direct Labor,Budget,2024,Jul,-726191.68,7,7/1/2024,7/31/2024,Q3
+5003,  Freight & Logistics,Budget,2024,Jul,-261490.39,7,7/1/2024,7/31/2024,Q3
+6001,  Salaries & Wages,Budget,2024,Jul,-1038706.36,7,7/1/2024,7/31/2024,Q3
+6002,  Payroll Taxes,Budget,2024,Jul,-145418.88,7,7/1/2024,7/31/2024,Q3
+6003,  Rent,Budget,2024,Jul,-62109.86,7,7/1/2024,7/31/2024,Q3
+6004,  Marketing,Budget,2024,Jul,-443027.15,7,7/1/2024,7/31/2024,Q3
+6005,  Software & Subscriptions,Budget,2024,Jul,-30515.47,7,7/1/2024,7/31/2024,Q3
+6006,  Travel,Budget,2024,Jul,-114785.81,7,7/1/2024,7/31/2024,Q3
+7001,  Interest Income,Budget,2024,Jul,2914,7,7/1/2024,7/31/2024,Q3
+7002,  Interest Expense,Budget,2024,Jul,-4323.36,7,7/1/2024,7/31/2024,Q3
+4001,  Core,Budget,2024,Aug,2556724.56,8,8/1/2024,8/31/2024,Q3
+4002,  Pro,Budget,2024,Aug,1973952.54,8,8/1/2024,8/31/2024,Q3
+4010,  Services,Budget,2024,Aug,1213195.07,8,8/1/2024,8/31/2024,Q3
+5001,  Materials,Budget,2024,Aug,-1490297.29,8,8/1/2024,8/31/2024,Q3
+5002,  Direct Labor,Budget,2024,Aug,-674886.22,8,8/1/2024,8/31/2024,Q3
+5003,  Freight & Logistics,Budget,2024,Aug,-238704.93,8,8/1/2024,8/31/2024,Q3
+6001,  Salaries & Wages,Budget,2024,Aug,-1025315.97,8,8/1/2024,8/31/2024,Q3
+6002,  Payroll Taxes,Budget,2024,Aug,-143544,8,8/1/2024,8/31/2024,Q3
+6003,  Rent,Budget,2024,Aug,-61982.63,8,8/1/2024,8/31/2024,Q3
+6004,  Marketing,Budget,2024,Aug,,8,8/1/2024,8/31/2024,Q3
+6005,  Software & Subscriptions,Budget,2024,Aug,-30806.45,8,8/1/2024,8/31/2024,Q3
+6006,  Travel,Budget,2024,Aug,,8,8/1/2024,8/31/2024,Q3
+7001,  Interest Income,Budget,2024,Aug,3147.05,8,8/1/2024,8/31/2024,Q3
+7002,  Interest Expense,Budget,2024,Aug,-4517.72,8,8/1/2024,8/31/2024,Q3
+4001,  Core,Budget,2024,Sep,2528507,9,9/1/2024,9/30/2024,Q3
+4002,  Pro,Budget,2024,Sep,1895368.46,9,9/1/2024,9/30/2024,Q3
+4010,  Services,Budget,2024,Sep,1170692.23,9,9/1/2024,9/30/2024,Q3
+5001,  Materials,Budget,2024,Sep,-1449753.13,9,9/1/2024,9/30/2024,Q3
+5002,  Direct Labor,Budget,2024,Sep,,9,9/1/2024,9/30/2024,Q3
+5003,  Freight & Logistics,Budget,2024,Sep,-232937.2,9,9/1/2024,9/30/2024,Q3
+6001,  Salaries & Wages,Budget,2024,Sep,-1035747.15,9,9/1/2024,9/30/2024,Q3
+6002,  Payroll Taxes,Budget,2024,Sep,-145004.6,9,9/1/2024,9/30/2024,Q3
+6003,  Rent,Budget,2024,Sep,-62193.19,9,9/1/2024,9/30/2024,Q3
+6004,  Marketing,Budget,2024,Sep,-392485.04,9,9/1/2024,9/30/2024,Q3
+6005,  Software & Subscriptions,Budget,2024,Sep,-30348.92,9,9/1/2024,9/30/2024,Q3
+6006,  Travel,Budget,2024,Sep,-107773.68,9,9/1/2024,9/30/2024,Q3
+7001,  Interest Income,Budget,2024,Sep,3084.86,9,9/1/2024,9/30/2024,Q3
+7002,  Interest Expense,Budget,2024,Sep,-4077.18,9,9/1/2024,9/30/2024,Q3
+4001,  Core,Budget,2024,Oct,2643557,10,10/1/2024,10/31/2024,Q4
+4002,  Pro,Budget,2024,Oct,2021664.65,10,10/1/2024,10/31/2024,Q4
+4010,  Services,Budget,2024,Oct,1194989,10,10/1/2024,10/31/2024,Q4
+5001,  Materials,Budget,2024,Oct,,10,10/1/2024,10/31/2024,Q4
+5002,  Direct Labor,Budget,2024,Oct,-687603.5,10,10/1/2024,10/31/2024,Q4
+5003,  Freight & Logistics,Budget,2024,Oct,-245924.32,10,10/1/2024,10/31/2024,Q4
+6001,  Salaries & Wages,Budget,2024,Oct,-1027612.66,10,10/1/2024,10/31/2024,Q4
+6002,  Payroll Taxes,Budget,2024,Oct,-143865.78,10,10/1/2024,10/31/2024,Q4
+6003,  Rent,Budget,2024,Oct,-62059.93,10,10/1/2024,10/31/2024,Q4
+6004,  Marketing,Budget,2024,Oct,-414268,10,10/1/2024,10/31/2024,Q4
+6005,  Software & Subscriptions,Budget,2024,Oct,-30391.16,10,10/1/2024,10/31/2024,Q4
+6006,  Travel,Budget,2024,Oct,-117415,10,10/1/2024,10/31/2024,Q4
+7001,  Interest Income,Budget,2024,Oct,3237.79,10,10/1/2024,10/31/2024,Q4
+7002,  Interest Expense,Budget,2024,Oct,-4278.68,10,10/1/2024,10/31/2024,Q4
+4001,  Core,Budget,2024,Nov,2655423.68,11,11/1/2024,11/30/2024,Q4
+4002,  Pro,Budget,2024,Nov,2114683.84,11,11/1/2024,11/30/2024,Q4
+4010,  Services,Budget,2024,Nov,1171544.89,11,11/1/2024,11/30/2024,Q4
+5001,  Materials,Budget,2024,Nov,-1551946.54,11,11/1/2024,11/30/2024,Q4
+5002,  Direct Labor,Budget,2024,Nov,-703453.2,11,11/1/2024,11/30/2024,Q4
+5003,  Freight & Logistics,Budget,2024,Nov,-253247.3,11,11/1/2024,11/30/2024,Q4
+6001,  Salaries & Wages,Budget,2024,Nov,-1043298.18,11,11/1/2024,11/30/2024,Q4
+6002,  Payroll Taxes,Budget,2024,Nov,-146061.74,11,11/1/2024,11/30/2024,Q4
+6003,  Rent,Budget,2024,Nov,-62294.58,11,11/1/2024,11/30/2024,Q4
+6004,  Marketing,Budget,2024,Nov,-428593.44,11,11/1/2024,11/30/2024,Q4
+6005,  Software & Subscriptions,Budget,2024,Nov,-30392.23,11,11/1/2024,11/30/2024,Q4
+6006,  Travel,Budget,2024,Nov,-122575.13,11,11/1/2024,11/30/2024,Q4
+7001,  Interest Income,Budget,2024,Nov,3187.87,11,11/1/2024,11/30/2024,Q4
+7002,  Interest Expense,Budget,2024,Nov,,11,11/1/2024,11/30/2024,Q4
+4001,  Core,Budget,2024,Dec,,12,12/1/2024,12/31/2024,Q4
+4002,  Pro,Budget,2024,Dec,2246776.11,12,12/1/2024,12/31/2024,Q4
+4010,  Services,Budget,2024,Dec,1281836.57,12,12/1/2024,12/31/2024,Q4
+5001,  Materials,Budget,2024,Dec,-1678073.74,12,12/1/2024,12/31/2024,Q4
+5002,  Direct Labor,Budget,2024,Dec,-750316.56,12,12/1/2024,12/31/2024,Q4
+5003,  Freight & Logistics,Budget,2024,Dec,-271687.75,12,12/1/2024,12/31/2024,Q4
+6001,  Salaries & Wages,Budget,2024,Dec,-1039860.13,12,12/1/2024,12/31/2024,Q4
+6002,  Payroll Taxes,Budget,2024,Dec,-145580,12,12/1/2024,12/31/2024,Q4
+6003,  Rent,Budget,2024,Dec,-62271,12,12/1/2024,12/31/2024,Q4
+6004,  Marketing,Budget,2024,Dec,-464741.24,12,12/1/2024,12/31/2024,Q4
+6005,  Software & Subscriptions,Budget,2024,Dec,-30850.95,12,12/1/2024,12/31/2024,Q4
+6006,  Travel,Budget,2024,Dec,,12,12/1/2024,12/31/2024,Q4
+7001,  Interest Income,Budget,2024,Dec,3368,12,12/1/2024,12/31/2024,Q4
+7002,  Interest Expense,Budget,2024,Dec,-4147.46,12,12/1/2024,12/31/2024,Q4
